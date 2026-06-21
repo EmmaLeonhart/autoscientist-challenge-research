@@ -44,3 +44,8 @@ land here as queue items get deleted.
 - Created PUBLIC repo `EmmaLeonhart/autoscientist-challenge-research` and pushed.
 - First Pages run failed (GITHUB_TOKEN can't auto-create the Pages site); enabled Pages via API (`build_type=workflow`) and re-ran → success. Report live at https://emmaleonhart.github.io/autoscientist-challenge-research/ (HTTP 200).
 - Bootstrap/understanding phase complete; queue drained. Next phase = todo.md item A (Discord rule-questions) → B (category selection).
+
+## 2026-06-20 — Strategy phase kickoff
+- Opened the email's Discord link in the browser (HubSpot JS-gated tracking URL → resolves to the invite in a real browser; curl can't pass the bot check). Public challenge page exposes no raw discord.gg invite, so the email link is the route.
+- Wrote `strategy/playbook.md`: prioritized Discord rule-questions (4 blocking + 4 important + 1 category-specific), unblocked "do now" actions, and a category decision matrix flagging "language" as the highest-edge target with "all other domains" as a niche-dataset fallback.
+- Repopulated `queue.md` Active with the strategy steps (todo A + B).
