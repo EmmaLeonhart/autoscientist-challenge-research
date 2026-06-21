@@ -8,14 +8,16 @@ See `CLAUDE.md` § "Workflow Rules" and § "Research workflow".
 
 ---
 
-## Active — Strategy phase (todo A + B)
+## Active — Build phase (All Other Domains: Shinto shrines)
 
-Rule-questions are **resolved** from the Discord export + FAQ — see `strategy/answers.md`. Key: **Language is Part 1, closes Jul 5**; baseline = the base model you train on; Language judged by LLM-as-judge on broad language competence; AutoScientist (UI) runs the training; submit via per-part HubSpot form; CC-BY-NC data OK; unlimited team w/ a captain.
+**Locked:** All Other Domains / Shinto shrines, **Wikidata-only (CC0)**. Data scoped (~25.8k EN-labelled shrines). Pipeline foundation built + tested (`src/extract_shrines.py`, `make_qa_pairs`; sample = 25 shrines → 117 QA pairs). See `strategy/decision.md`, `strategy/build-plan.md`, `data_lake/wikidata/data-assets.md`.
 
-1. **Lock the target category.** Working rec: **Language** (Part 1, highest owned-data edge, but tight Jul 5 deadline); fallbacks: "all other domains" (Part 2, niche owned dataset) or Healthcare (rewards extra metrics). *A 6:10pm cron asks the user to pick if not already locked.*
-2. **Stand up publishing accounts + platform.** Hugging Face + Kaggle (both mandatory release destinations) and the Adaption app (connect HF/Kaggle keys at `adaptionlabs.ai/app/settings?tab=api_keys`); confirm the 1,000 challenge credits landed.
-3. **Draft the data-asset inventory** mapping owned corpora (lexemes, multilingual Wikidata, Aelaki, Japanese text, genealogy) to the chosen category's objective.
-4. **Decompose the build** for the locked category into a fresh queue (adapt dataset → AutoScientist train to beat baseline → dual HF+Kaggle release crediting Adaptive Data → submit form → demo/social).
+1. **Scale + enrich the dataset.** Run `scripts/run.py --full` to paginate all shrines; add more fact types to `make_qa_pairs` (official name P1448, kana P1814, part-of/Engishiki P361, reverse/aggregate questions e.g. "shrines that enshrine {kami}", "shrines in {prefecture}"). Add tests for the new pair types.
+2. **Build the eval split.** Hold out ~15% of *shrines* (not pairs) as an unseen test set; write a small scorer (exact/contains match on facts) so we can measure base-vs-finetuned lift ourselves.
+3. **Ask the gating eval questions in Discord** (#support / weekly Research Hour) — `strategy/shinto-shrines-questions.md` A.1–A.4 (how All Other Domains is judged; held-out set ownership; base models; dataset-quality scoring).
+4. **Stand up publishing + platform.** Hugging Face + Kaggle accounts; connect keys in the Adaption app (`adaptionlabs.ai/app/settings?tab=api_keys`); confirm the 1,000 challenge credits landed (the 50 are free-tier).
+5. **Train via AutoScientist**, measure held-out lift vs the base model, iterate on dataset quality.
+6. **Release + submit.** Push dataset + weights to HF *and* Kaggle (credit Adaptive Data by Adaption); submit the Part 2 form when it opens (Jul 6); post the bonus demo.
 
 ---
 

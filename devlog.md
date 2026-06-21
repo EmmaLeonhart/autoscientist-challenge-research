@@ -54,3 +54,10 @@ land here as queue items get deleted.
 - User's channel export (adaption.zip) arrived early; ingested it now instead of waiting for the 5:51/6:08 crons (both cancelled as redundant).
 - Raw export (other participants' messages + avatars) extracted to gitignored `data_lake/discord_export/_raw/`. Committed only PII-free official content: `faq.txt` (official FAQ doc) + `official-rules.md` (pinned rules).
 - Wrote `strategy/answers.md` resolving all open rule-questions. Corrected `FINDINGS.md`: **Language is Part 1 (closes Jul 5)**, not Part 2; FAQ adds an HR category; baseline = the base model you train on; Language judged by LLM-as-judge on broad competence; AutoScientist (UI) runs training; CC-BY-NC data OK; unlimited team w/ captain; submit via per-part HubSpot form.
+
+## 2026-06-20 — Locked category + built the dataset pipeline (executing)
+- **Locked:** All Other Domains / **Shinto shrines**, **Wikidata-only (CC0)** (user decision). Clean license = no ownership/release risk; skip restricted sources.
+- Scoped Wikidata: **30,918 Shinto shrines (25,837 with EN labels)**, rich properties (enshrined kami P825, location P131, coords, type, official names, Engishiki P361). → `data_lake/wikidata/data-assets.md`.
+- Wrote `strategy/decision.md`, `strategy/shinto-shrines-questions.md` (questions for Discord/#support), `strategy/build-plan.md` (the MVP: Wikidata facts → QA pairs → AutoScientist finetune → beat base → dual HF+Kaggle release).
+- Built + tested the dataset pipeline: `src/extract_shrines.py` (`make_qa_pairs` pure transform), `scripts/run.py` entry (sample/--full), `tests/test_qa.py` (3 passing), CI (`.github/workflows/ci.yml`), `requirements.txt`. Live sample: 25 shrines → 117 QA pairs.
+- Clarified the workflow shape for the user: we build the DATASET (Wikidata pipeline, the scored edge); AutoScientist trains the MODEL; Hugging Face + Kaggle are the release destinations.
