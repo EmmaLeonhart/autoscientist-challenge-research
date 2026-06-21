@@ -61,3 +61,8 @@ land here as queue items get deleted.
 - Wrote `strategy/decision.md`, `strategy/shinto-shrines-questions.md` (questions for Discord/#support), `strategy/build-plan.md` (the MVP: Wikidata facts → QA pairs → AutoScientist finetune → beat base → dual HF+Kaggle release).
 - Built + tested the dataset pipeline: `src/extract_shrines.py` (`make_qa_pairs` pure transform), `scripts/run.py` entry (sample/--full), `tests/test_qa.py` (3 passing), CI (`.github/workflows/ci.yml`), `requirements.txt`. Live sample: 25 shrines → 117 QA pairs.
 - Clarified the workflow shape for the user: we build the DATASET (Wikidata pipeline, the scored edge); AutoScientist trains the MODEL; Hugging Face + Kaggle are the release destinations.
+
+## 2026-06-20 — Broadened scope: shrines → full Shinto (kami + texts)
+- User direction: don't limit to shrines, stay within **Shinto** (broad); build self-contained, reusing latent-space-cartography's seed-and-traverse pattern (no hard dep on Loka / latent-space-cartography).
+- Generalized the pipeline: `src/extract_shrines.py` → `src/extract_shinto.py` with type-aware `make_qa_pairs` over 3 kinds — **shrine**, **kami** (genealogy: parents/children/native name), **seed** (curated texts/concepts: Engishiki, Kojiki, Nihon Shoki, Shinto). Updated `scripts/run.py`, tests (5 passing), and docs.
+- **Fixed a data-quality bug:** the kami class was mis-set to Q175331 ("demonstration/protest" — pulled in "1989 Tiananmen Square protests"); corrected to **Q524158** ("kami"). Sample now clean: Amaterasu, Susanoo (parents Izanami/Izanagi), Hachiman, Ōkuninushi. Sample: 206 entities → 684 QA pairs.

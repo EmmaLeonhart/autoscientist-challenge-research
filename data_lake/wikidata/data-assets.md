@@ -31,6 +31,16 @@ is **CC0 (public domain)** → freely releasable to Hugging Face + Kaggle (chall
 
 ## Implication
 ~25k shrines × several facts each → easily **100k+ instruction/QA pairs** of clean,
-license-safe finetuning data — without touching any restricted source. The MVP build
-plan in `strategy/build-plan.md` turns these properties into the dataset; the extractor
-is `src/extract_shrines.py` (`make_qa_pairs` is the pure transform, unit-tested).
+license-safe finetuning data — without touching any restricted source.
+
+## Broadened to the full Shinto domain (kind buckets)
+The extractor (`src/extract_shinto.py`, `make_qa_pairs` pure transform, unit-tested)
+covers three entity kinds with type-aware questions:
+- **shrine** — Q845945 (~25.8k EN): enshrined kami, location, type, coords, official name.
+- **kami / deity** — **Q524158** (~352): description, **genealogy** (parents P22/P25, children P40 — e.g. Susanoo → Izanami/Izanagi), Japanese name.
+- **seed (texts & concepts)** — curated QIDs (Engishiki Q1342448, Kojiki Q533996, Nihon Shoki Q695225, Shinto Q1011402, ...): description, author.
+
+> **Data-quality note:** the kami class was initially mis-set to **Q175331, which is actually
+> "demonstration/protest"** (it pulled in "1989 Tiananmen Square protests"). Corrected to
+> **Q524158 ("kami — divine being in Shinto")**. Lesson: verify class QIDs against a sample,
+> since the dataset's quality is itself scored by the challenge.

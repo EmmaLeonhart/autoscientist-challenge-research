@@ -1,9 +1,9 @@
-# Build plan — Wikidata Shinto Shrines knowledge model (MVP)
+# Build plan — Wikidata **Shinto** knowledge model (MVP)
 
-Category: **All Other Domains** (Part 2, closes Aug 3). Data: **Wikidata only (CC0)** — clean license, fully releasable, ~25.8k shrines with English labels (of 30.9k total). See `data_lake/wikidata/data-assets.md`.
+Category: **All Other Domains** (Part 2, closes Aug 3). Data: **Wikidata only (CC0)** — clean license, fully releasable. Scope: broad Shinto — shrines (~25.8k EN), kami/deities (~352, Q524158), and curated texts/concepts. See `data_lake/wikidata/data-assets.md`.
 
 ## The idea (one sentence)
-Finetune a small base model into a **Shinto-shrine knowledge model** using instruction/QA pairs generated from Wikidata structured facts, and show measurable improvement over the base model on a held-out split of unseen shrines.
+Finetune a small base model into a **Shinto knowledge model** using instruction/QA pairs generated from Wikidata structured facts (shrines, kami genealogy, texts), and show measurable improvement over the base model on a held-out split of unseen entities.
 
 ## Why it fits the rules
 - **Open dataset + weights, dual HF+Kaggle release:** Wikidata is CC0, so the dataset is trivially releasable; the finetuned weights are ours to release. Credit *Adaptive Data by Adaption*.

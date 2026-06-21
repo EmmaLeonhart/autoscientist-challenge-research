@@ -1,0 +1,684 @@
+{"instruction": "What is Nishinomiya Shrine?", "input": "", "output": "Nishinomiya Shrine is a Shinto shrine located in Ubara district, Japan.", "qid": "Q705297", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Nishinomiya Shrine?", "input": "", "output": "Ebisu, Amaterasu, Ōkuninushi, Susanoo", "qid": "Q705297", "kind": "shrine"}
+{"instruction": "Where is Nishinomiya Shrine located?", "input": "", "output": "Ubara district, Settsu Province, Nishinomiya", "qid": "Q705297", "kind": "shrine"}
+{"instruction": "What type of religious site is Nishinomiya Shrine?", "input": "", "output": "Ebisu shrine, Shikinai Subshrine, Shikinai Ronsha, massha, Shrine receiving Hoe and Quiver", "qid": "Q705297", "kind": "shrine"}
+{"instruction": "What are the coordinates of Nishinomiya Shrine?", "input": "", "output": "34.7357, 135.3346", "qid": "Q705297", "kind": "shrine"}
+{"instruction": "What is Yasukuni Shrine?", "input": "", "output": "Yasukuni Shrine is a Shinto shrine located in Kudankita, Japan.", "qid": "Q242803", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Yasukuni Shrine?", "input": "", "output": "eirei, Class A war criminal", "qid": "Q242803", "kind": "shrine"}
+{"instruction": "Where is Yasukuni Shrine located?", "input": "", "output": "Kudankita", "qid": "Q242803", "kind": "shrine"}
+{"instruction": "What type of religious site is Yasukuni Shrine?", "input": "", "output": "gokoku shrine, chokusaisha, war memorial", "qid": "Q242803", "kind": "shrine"}
+{"instruction": "What are the coordinates of Yasukuni Shrine?", "input": "", "output": "35.6940, 139.7427", "qid": "Q242803", "kind": "shrine"}
+{"instruction": "What is Yūtoku Inari Shrine?", "input": "", "output": "Yūtoku Inari Shrine is a Shinto shrine located in Kashima, Japan.", "qid": "Q251682", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Yūtoku Inari Shrine?", "input": "", "output": "Inari, Ukanomitama", "qid": "Q251682", "kind": "shrine"}
+{"instruction": "Where is Yūtoku Inari Shrine located?", "input": "", "output": "Kashima", "qid": "Q251682", "kind": "shrine"}
+{"instruction": "What type of religious site is Yūtoku Inari Shrine?", "input": "", "output": "Inari shrine", "qid": "Q251682", "kind": "shrine"}
+{"instruction": "What are the coordinates of Yūtoku Inari Shrine?", "input": "", "output": "33.0736, 130.1083", "qid": "Q251682", "kind": "shrine"}
+{"instruction": "What is Meiji Jingū?", "input": "", "output": "Meiji Jingū is a Shinto shrine located in Yoyogi-Kamizonochō, Japan.", "qid": "Q287165", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Meiji Jingū?", "input": "", "output": "Emperor Meiji, Empress Shōken", "qid": "Q287165", "kind": "shrine"}
+{"instruction": "Where is Meiji Jingū located?", "input": "", "output": "Yoyogi-Kamizonochō", "qid": "Q287165", "kind": "shrine"}
+{"instruction": "What type of religious site is Meiji Jingū?", "input": "", "output": "jingū, tourist attraction, chokusaisha", "qid": "Q287165", "kind": "shrine"}
+{"instruction": "What are the coordinates of Meiji Jingū?", "input": "", "output": "35.6761, 139.6992", "qid": "Q287165", "kind": "shrine"}
+{"instruction": "What is Shizuoka Sengen Shrine?", "input": "", "output": "Shizuoka Sengen Shrine is a Shinto shrine located in Suruga Province, Japan.", "qid": "Q500368", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Shizuoka Sengen Shrine?", "input": "", "output": "Kamuōichihime, Konohanasakuyahime, Ōkuninushi", "qid": "Q500368", "kind": "shrine"}
+{"instruction": "Where is Shizuoka Sengen Shrine located?", "input": "", "output": "Suruga Province, Aoi-ku", "qid": "Q500368", "kind": "shrine"}
+{"instruction": "What type of religious site is Shizuoka Sengen Shrine?", "input": "", "output": "Shikinaisha, Shikinai Supershrine, Sengen shrine", "qid": "Q500368", "kind": "shrine"}
+{"instruction": "What are the coordinates of Shizuoka Sengen Shrine?", "input": "", "output": "34.9836, 138.3753", "qid": "Q500368", "kind": "shrine"}
+{"instruction": "What is Fujisan Hongū Sengen Taisha?", "input": "", "output": "Fujisan Hongū Sengen Taisha is a Shinto shrine located in Fuji district, Japan.", "qid": "Q653180", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Fujisan Hongū Sengen Taisha?", "input": "", "output": "Konohanasakuyahime", "qid": "Q653180", "kind": "shrine"}
+{"instruction": "Where is Fujisan Hongū Sengen Taisha located?", "input": "", "output": "Fuji district, Fujinomiya", "qid": "Q653180", "kind": "shrine"}
+{"instruction": "What type of religious site is Fujisan Hongū Sengen Taisha?", "input": "", "output": "taisha, Shikinaisha, Kokuhei-sha, Sengen shrine", "qid": "Q653180", "kind": "shrine"}
+{"instruction": "What are the coordinates of Fujisan Hongū Sengen Taisha?", "input": "", "output": "35.2274, 138.6102", "qid": "Q653180", "kind": "shrine"}
+{"instruction": "What is Nagata Shrine?", "input": "", "output": "Nagata Shrine is a Shinto shrine located in Yatabe district, Japan.", "qid": "Q661395", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Nagata Shrine?", "input": "", "output": "Kotoshironushi", "qid": "Q661395", "kind": "shrine"}
+{"instruction": "Where is Nagata Shrine located?", "input": "", "output": "Yatabe district, Settsu Province, Kobe", "qid": "Q661395", "kind": "shrine"}
+{"instruction": "What type of religious site is Nagata Shrine?", "input": "", "output": "Ebisu shrine, Shikinaisha, Shrines receiving Tsukinami-sai and Niiname-sai and Ainame-sai offerings", "qid": "Q661395", "kind": "shrine"}
+{"instruction": "What are the coordinates of Nagata Shrine?", "input": "", "output": "34.6712, 135.1470", "qid": "Q661395", "kind": "shrine"}
+{"instruction": "What is Ōtori Taisha?", "input": "", "output": "Ōtori Taisha is a Shinto shrine located in Ōtori district, Japan.", "qid": "Q705151", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Ōtori Taisha?", "input": "", "output": "Yamato Takeru", "qid": "Q705151", "kind": "shrine"}
+{"instruction": "Where is Ōtori Taisha located?", "input": "", "output": "Ōtori district, Izumi Province, Nishi-ku", "qid": "Q705151", "kind": "shrine"}
+{"instruction": "What type of religious site is Ōtori Taisha?", "input": "", "output": "taisha, Shikinaisha, Shrines receiving Tsukinami-sai and Niiname-sai offerings, Sumiyoshi shrine", "qid": "Q705151", "kind": "shrine"}
+{"instruction": "What are the coordinates of Ōtori Taisha?", "input": "", "output": "34.5369, 135.4608", "qid": "Q705151", "kind": "shrine"}
+{"instruction": "What is Sumiyoshi Taisha?", "input": "", "output": "Sumiyoshi Taisha is a Shinto shrine located in Sumiyoshi, Japan.", "qid": "Q705949", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Sumiyoshi Taisha?", "input": "", "output": "Sumiyoshi sanjin", "qid": "Q705949", "kind": "shrine"}
+{"instruction": "Where is Sumiyoshi Taisha located?", "input": "", "output": "Sumiyoshi, Settsu Province, Sumiyoshi district", "qid": "Q705949", "kind": "shrine"}
+{"instruction": "What type of religious site is Sumiyoshi Taisha?", "input": "", "output": "taisha, Shikinai Subshrine, Shikinai Ronsha, Shrines receiving Tsukinami-sai and Niiname-sai and Ainame-sai offerings, Shrine receiving Hoe and Quiver, shrine dedicated to Empress Jingū, Shikinai Supershrine, Sumiyoshi shrine", "qid": "Q705949", "kind": "shrine"}
+{"instruction": "What are the coordinates of Sumiyoshi Taisha?", "input": "", "output": "34.6125, 135.4929", "qid": "Q705949", "kind": "shrine"}
+{"instruction": "What is Sagami-ji Temple?", "input": "", "output": "Sagami-ji Temple is a Shinto shrine located in Kasai, Japan.", "qid": "Q3137229", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Sagami-ji Temple?", "input": "", "output": "Eleven-Faced Avalokiteśvara", "qid": "Q3137229", "kind": "shrine"}
+{"instruction": "Where is Sagami-ji Temple located?", "input": "", "output": "Kasai", "qid": "Q3137229", "kind": "shrine"}
+{"instruction": "What type of religious site is Sagami-ji Temple?", "input": "", "output": "chokugan-ji, Buddhist temple, Sumiyoshi shrine", "qid": "Q3137229", "kind": "shrine"}
+{"instruction": "What are the coordinates of Sagami-ji Temple?", "input": "", "output": "34.9357, 134.8296", "qid": "Q3137229", "kind": "shrine"}
+{"instruction": "What is Miho Shrine?", "input": "", "output": "Miho Shrine is a Shinto shrine located in Shimane district, Japan.", "qid": "Q3313076", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Miho Shrine?", "input": "", "output": "Kotoshironushi, Mihotsuhime", "qid": "Q3313076", "kind": "shrine"}
+{"instruction": "Where is Miho Shrine located?", "input": "", "output": "Shimane district, Izumo Province, Matsue", "qid": "Q3313076", "kind": "shrine"}
+{"instruction": "What type of religious site is Miho Shrine?", "input": "", "output": "Ebisu shrine, Shikinaisha, Kokuhei-sha", "qid": "Q3313076", "kind": "shrine"}
+{"instruction": "What are the coordinates of Miho Shrine?", "input": "", "output": "35.5623, 133.3060", "qid": "Q3313076", "kind": "shrine"}
+{"instruction": "What is Fuji Sengen Shrine, Nagoya?", "input": "", "output": "Fuji Sengen Shrine, Nagoya is a Shinto shrine located in Ōsu, Japan.", "qid": "Q5507355", "kind": "shrine"}
+{"instruction": "Where is Fuji Sengen Shrine, Nagoya located?", "input": "", "output": "Ōsu", "qid": "Q5507355", "kind": "shrine"}
+{"instruction": "What type of religious site is Fuji Sengen Shrine, Nagoya?", "input": "", "output": "Sengen shrine", "qid": "Q5507355", "kind": "shrine"}
+{"instruction": "What are the coordinates of Fuji Sengen Shrine, Nagoya?", "input": "", "output": "35.1592, 136.9008", "qid": "Q5507355", "kind": "shrine"}
+{"instruction": "What is Fujizuka?", "input": "", "output": "Fujizuka is a Shinto shrine.", "qid": "Q5507555", "kind": "shrine"}
+{"instruction": "What type of religious site is Fujizuka?", "input": "", "output": "Sengen shrine", "qid": "Q5507555", "kind": "shrine"}
+{"instruction": "What is Furogu Shrine?", "input": "", "output": "Furogu Shrine is a Shinto shrine located in Ōkawa-shi, Japan.", "qid": "Q11282543", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Furogu Shrine?", "input": "", "output": "Watatsumi", "qid": "Q11282543", "kind": "shrine"}
+{"instruction": "Where is Furogu Shrine located?", "input": "", "output": "Ōkawa-shi", "qid": "Q11282543", "kind": "shrine"}
+{"instruction": "What type of religious site is Furogu Shrine?", "input": "", "output": "shrine dedicated to Empress Jingū, Sumiyoshi shrine", "qid": "Q11282543", "kind": "shrine"}
+{"instruction": "What are the coordinates of Furogu Shrine?", "input": "", "output": "33.2112, 130.3867", "qid": "Q11282543", "kind": "shrine"}
+{"instruction": "What is Ichinomiya Sengen Shrine?", "input": "", "output": "Ichinomiya Sengen Shrine is a Shinto shrine located in Ichikawamisato, Japan.", "qid": "Q11352589", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Ichinomiya Sengen Shrine?", "input": "", "output": "Konohanasakuyahime", "qid": "Q11352589", "kind": "shrine"}
+{"instruction": "Where is Ichinomiya Sengen Shrine located?", "input": "", "output": "Ichikawamisato", "qid": "Q11352589", "kind": "shrine"}
+{"instruction": "What type of religious site is Ichinomiya Sengen Shrine?", "input": "", "output": "Shikinaisha, Shikinai Successor, Sengen shrine", "qid": "Q11352589", "kind": "shrine"}
+{"instruction": "What are the coordinates of Ichinomiya Sengen Shrine?", "input": "", "output": "35.5542, 138.4902", "qid": "Q11352589", "kind": "shrine"}
+{"instruction": "What is Kusushi Shrine?", "input": "", "output": "Kusushi Shrine is a Shinto shrine, Japan.", "qid": "Q11369789", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Kusushi Shrine?", "input": "", "output": "Sukunabikona, Ōkuninushi", "qid": "Q11369789", "kind": "shrine"}
+{"instruction": "What type of religious site is Kusushi Shrine?", "input": "", "output": "okumiya, Sengen shrine", "qid": "Q11369789", "kind": "shrine"}
+{"instruction": "What are the coordinates of Kusushi Shrine?", "input": "", "output": "35.3656, 138.7329", "qid": "Q11369789", "kind": "shrine"}
+{"instruction": "What is Kamenomori-sumiyoshi Shrine?", "input": "", "output": "Kamenomori-sumiyoshi Shrine is a Shinto shrine located in Ikeda, Japan.", "qid": "Q11370718", "kind": "shrine"}
+{"instruction": "Where is Kamenomori-sumiyoshi Shrine located?", "input": "", "output": "Ikeda", "qid": "Q11370718", "kind": "shrine"}
+{"instruction": "What type of religious site is Kamenomori-sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi shrine", "qid": "Q11370718", "kind": "shrine"}
+{"instruction": "What are the coordinates of Kamenomori-sumiyoshi Shrine?", "input": "", "output": "34.8017, 135.4400", "qid": "Q11370718", "kind": "shrine"}
+{"instruction": "What is Kameido Sengen Shrine?", "input": "", "output": "Kameido Sengen Shrine is a Shinto shrine located in Kameido, Japan.", "qid": "Q11370954", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Kameido Sengen Shrine?", "input": "", "output": "Konohanasakuyahime", "qid": "Q11370954", "kind": "shrine"}
+{"instruction": "Where is Kameido Sengen Shrine located?", "input": "", "output": "Kameido", "qid": "Q11370954", "kind": "shrine"}
+{"instruction": "What type of religious site is Kameido Sengen Shrine?", "input": "", "output": "Sengen shrine", "qid": "Q11370954", "kind": "shrine"}
+{"instruction": "What are the coordinates of Kameido Sengen Shrine?", "input": "", "output": "35.6956, 139.8443", "qid": "Q11370954", "kind": "shrine"}
+{"instruction": "What is Kotoshironushi Shrine?", "input": "", "output": "Kotoshironushi Shrine is a Shinto shrine located in Shinkamigoto, Japan.", "qid": "Q11371126", "kind": "shrine"}
+{"instruction": "Where is Kotoshironushi Shrine located?", "input": "", "output": "Shinkamigoto", "qid": "Q11371126", "kind": "shrine"}
+{"instruction": "What type of religious site is Kotoshironushi Shrine?", "input": "", "output": "Ebisu shrine", "qid": "Q11371126", "kind": "shrine"}
+{"instruction": "What are the coordinates of Kotoshironushi Shrine?", "input": "", "output": "33.0190, 129.0916", "qid": "Q11371126", "kind": "shrine"}
+{"instruction": "What is Nikabe Shrine?", "input": "", "output": "Nikabe Shrine is a Shinto shrine located in Yoshiki district, Japan.", "qid": "Q11376337", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Nikabe Shrine?", "input": "", "output": "Shitateruhime", "qid": "Q11376337", "kind": "shrine"}
+{"instruction": "Where is Nikabe Shrine located?", "input": "", "output": "Yoshiki district, Suō Province, Yamaguchi", "qid": "Q11376337", "kind": "shrine"}
+{"instruction": "What type of religious site is Nikabe Shrine?", "input": "", "output": "Shikinaisha, Kokuhei-sha, Sumiyoshi shrine", "qid": "Q11376337", "kind": "shrine"}
+{"instruction": "What are the coordinates of Nikabe Shrine?", "input": "", "output": "34.1893, 131.4919", "qid": "Q11376337", "kind": "shrine"}
+{"instruction": "What is Imamiya Ebisu Shrine?", "input": "", "output": "Imamiya Ebisu Shrine is a Shinto shrine, Japan.", "qid": "Q11376859", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Imamiya Ebisu Shrine?", "input": "", "output": "Amaterasu", "qid": "Q11376859", "kind": "shrine"}
+{"instruction": "What type of religious site is Imamiya Ebisu Shrine?", "input": "", "output": "Ebisu shrine", "qid": "Q11376859", "kind": "shrine"}
+{"instruction": "What are the coordinates of Imamiya Ebisu Shrine?", "input": "", "output": "34.6553, 135.5025", "qid": "Q11376859", "kind": "shrine"}
+{"instruction": "What is Imamiya Sengen Shrine?", "input": "", "output": "Imamiya Sengen Shrine is a Shinto shrine located in Fuji, Japan.", "qid": "Q11376860", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Imamiya Sengen Shrine?", "input": "", "output": "Konohanasakuyahime", "qid": "Q11376860", "kind": "shrine"}
+{"instruction": "Where is Imamiya Sengen Shrine located?", "input": "", "output": "Fuji", "qid": "Q11376860", "kind": "shrine"}
+{"instruction": "What type of religious site is Imamiya Sengen Shrine?", "input": "", "output": "Sengen shrine", "qid": "Q11376860", "kind": "shrine"}
+{"instruction": "What are the coordinates of Imamiya Sengen Shrine?", "input": "", "output": "35.2020, 138.7170", "qid": "Q11376860", "kind": "shrine"}
+{"instruction": "What is Tsukudasumiyoshikō?", "input": "", "output": "Tsukudasumiyoshikō is a Shinto shrine.", "qid": "Q11381599", "kind": "shrine"}
+{"instruction": "What type of religious site is Tsukudasumiyoshikō?", "input": "", "output": "Sumiyoshi shrine", "qid": "Q11381599", "kind": "shrine"}
+{"instruction": "What is Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi Shrine is a Shinto shrine located in Toyoura district, Japan.", "qid": "Q11381858", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi sanjin", "qid": "Q11381858", "kind": "shrine"}
+{"instruction": "Where is Sumiyoshi Shrine located?", "input": "", "output": "Toyoura district, Nagato Province, Shimonoseki", "qid": "Q11381858", "kind": "shrine"}
+{"instruction": "What type of religious site is Sumiyoshi Shrine?", "input": "", "output": "Shikinaisha, Kokuhei-sha, shrine dedicated to Empress Jingū, Sumiyoshi shrine", "qid": "Q11381858", "kind": "shrine"}
+{"instruction": "What are the coordinates of Sumiyoshi Shrine?", "input": "", "output": "33.9998, 130.9565", "qid": "Q11381858", "kind": "shrine"}
+{"instruction": "What is Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi Shrine is a Shinto shrine located in Shimogyō-ku, Japan.", "qid": "Q11381859", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi sanjin, Amaterasu", "qid": "Q11381859", "kind": "shrine"}
+{"instruction": "Where is Sumiyoshi Shrine located?", "input": "", "output": "Shimogyō-ku", "qid": "Q11381859", "kind": "shrine"}
+{"instruction": "What type of religious site is Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi shrine", "qid": "Q11381859", "kind": "shrine"}
+{"instruction": "What are the coordinates of Sumiyoshi Shrine?", "input": "", "output": "35.0000, 135.7528", "qid": "Q11381859", "kind": "shrine"}
+{"instruction": "What is Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi Shrine is a Shinto shrine located in Kamo district, Japan.", "qid": "Q11381860", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi sanjin, Empress Jingū", "qid": "Q11381860", "kind": "shrine"}
+{"instruction": "Where is Sumiyoshi Shrine located?", "input": "", "output": "Kamo district, Harima Province, Katō-shi", "qid": "Q11381860", "kind": "shrine"}
+{"instruction": "What type of religious site is Sumiyoshi Shrine?", "input": "", "output": "Kokuhei-sha, Shikinai Ronsha, Sumiyoshi shrine", "qid": "Q11381860", "kind": "shrine"}
+{"instruction": "What are the coordinates of Sumiyoshi Shrine?", "input": "", "output": "34.9668, 135.0595", "qid": "Q11381860", "kind": "shrine"}
+{"instruction": "What is Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi Shrine is a Shinto shrine located in Nantan, Japan.", "qid": "Q11381862", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi sanjin", "qid": "Q11381862", "kind": "shrine"}
+{"instruction": "Where is Sumiyoshi Shrine located?", "input": "", "output": "Nantan", "qid": "Q11381862", "kind": "shrine"}
+{"instruction": "What type of religious site is Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi shrine", "qid": "Q11381862", "kind": "shrine"}
+{"instruction": "What are the coordinates of Sumiyoshi Shrine?", "input": "", "output": "35.0768, 135.5396", "qid": "Q11381862", "kind": "shrine"}
+{"instruction": "What is Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi Shrine is a Shinto shrine located in Iki, Japan.", "qid": "Q11381863", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi sanjin", "qid": "Q11381863", "kind": "shrine"}
+{"instruction": "Where is Sumiyoshi Shrine located?", "input": "", "output": "Iki, Iki district, Iki Island", "qid": "Q11381863", "kind": "shrine"}
+{"instruction": "What type of religious site is Sumiyoshi Shrine?", "input": "", "output": "Kokuhei-sha, Shikinaisha, Sumiyoshi shrine", "qid": "Q11381863", "kind": "shrine"}
+{"instruction": "What are the coordinates of Sumiyoshi Shrine?", "input": "", "output": "33.7884, 129.7065", "qid": "Q11381863", "kind": "shrine"}
+{"instruction": "What is Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi Shrine is a Shinto shrine located in Sumiyoshi Special Green Space Conservation District, Japan.", "qid": "Q29682", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi sanjin", "qid": "Q29682", "kind": "shrine"}
+{"instruction": "Where is Sumiyoshi Shrine located?", "input": "", "output": "Sumiyoshi Special Green Space Conservation District, Sumiyoshi, Naka district, Chikuzen Province", "qid": "Q29682", "kind": "shrine"}
+{"instruction": "What type of religious site is Sumiyoshi Shrine?", "input": "", "output": "Shikinaisha, Kokuhei-sha, shrine dedicated to Empress Jingū, Sumiyoshi shrine", "qid": "Q29682", "kind": "shrine"}
+{"instruction": "What are the coordinates of Sumiyoshi Shrine?", "input": "", "output": "33.5857, 130.4137", "qid": "Q29682", "kind": "shrine"}
+{"instruction": "What is Sasuke Inari Shrine?", "input": "", "output": "Sasuke Inari Shrine is a Shinto shrine located in Sasuke, Japan.", "qid": "Q45470", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Sasuke Inari Shrine?", "input": "", "output": "Ōmiyanome, Satahiko, Ukanomitama, Kotoshironushi, Ōkuninushi", "qid": "Q45470", "kind": "shrine"}
+{"instruction": "Where is Sasuke Inari Shrine located?", "input": "", "output": "Sasuke", "qid": "Q45470", "kind": "shrine"}
+{"instruction": "What type of religious site is Sasuke Inari Shrine?", "input": "", "output": "Inari shrine", "qid": "Q45470", "kind": "shrine"}
+{"instruction": "What are the coordinates of Sasuke Inari Shrine?", "input": "", "output": "35.3244, 139.5389", "qid": "Q45470", "kind": "shrine"}
+{"instruction": "What is Oyamazumi Shrine?", "input": "", "output": "Oyamazumi Shrine is a Shinto shrine located in Sado, Japan.", "qid": "Q124496789", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Oyamazumi Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q124496789", "kind": "shrine"}
+{"instruction": "Where is Oyamazumi Shrine located?", "input": "", "output": "Sado", "qid": "Q124496789", "kind": "shrine"}
+{"instruction": "What type of religious site is Oyamazumi Shrine?", "input": "", "output": "Ōyamazumi shrine, Mishima shrine", "qid": "Q124496789", "kind": "shrine"}
+{"instruction": "What is Mishima Shrine?", "input": "", "output": "Mishima Shrine is a Shinto shrine located in Santō district, Japan.", "qid": "Q124496790", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Mishima Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q124496790", "kind": "shrine"}
+{"instruction": "Where is Mishima Shrine located?", "input": "", "output": "Santō district, Echigo Province, Kashiwazaki", "qid": "Q124496790", "kind": "shrine"}
+{"instruction": "What type of religious site is Mishima Shrine?", "input": "", "output": "Shikinai Supershrine, Mishima shrine, Kokuhei-sha, Shikinaisha", "qid": "Q124496790", "kind": "shrine"}
+{"instruction": "What are the coordinates of Mishima Shrine?", "input": "", "output": "37.3552, 138.5494", "qid": "Q124496790", "kind": "shrine"}
+{"instruction": "What is Mishima Shrine?", "input": "", "output": "Mishima Shrine is a Shinto shrine located in Kōnosu-shi, Japan.", "qid": "Q128866683", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Mishima Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q128866683", "kind": "shrine"}
+{"instruction": "Where is Mishima Shrine located?", "input": "", "output": "Kōnosu-shi", "qid": "Q128866683", "kind": "shrine"}
+{"instruction": "What type of religious site is Mishima Shrine?", "input": "", "output": "Mishima shrine", "qid": "Q128866683", "kind": "shrine"}
+{"instruction": "What are the coordinates of Mishima Shrine?", "input": "", "output": "36.0946, 139.4609", "qid": "Q128866683", "kind": "shrine"}
+{"instruction": "What is Mishima Shrine?", "input": "", "output": "Mishima Shrine is a Shinto shrine located in Ōtsuki-shi, Japan.", "qid": "Q131919963", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Mishima Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q131919963", "kind": "shrine"}
+{"instruction": "Where is Mishima Shrine located?", "input": "", "output": "Ōtsuki-shi", "qid": "Q131919963", "kind": "shrine"}
+{"instruction": "What type of religious site is Mishima Shrine?", "input": "", "output": "Mishima shrine", "qid": "Q131919963", "kind": "shrine"}
+{"instruction": "What are the coordinates of Mishima Shrine?", "input": "", "output": "35.6139, 138.9479", "qid": "Q131919963", "kind": "shrine"}
+{"instruction": "What is Mishima Shrine?", "input": "", "output": "Mishima Shrine is a Shinto shrine located in Higashiizu, Japan.", "qid": "Q131925941", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Mishima Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q131925941", "kind": "shrine"}
+{"instruction": "Where is Mishima Shrine located?", "input": "", "output": "Higashiizu", "qid": "Q131925941", "kind": "shrine"}
+{"instruction": "What type of religious site is Mishima Shrine?", "input": "", "output": "Mishima shrine", "qid": "Q131925941", "kind": "shrine"}
+{"instruction": "What are the coordinates of Mishima Shrine?", "input": "", "output": "34.8420, 139.0759", "qid": "Q131925941", "kind": "shrine"}
+{"instruction": "What is Mishima Shrine?", "input": "", "output": "Mishima Shrine is a Shinto shrine located in Ito, Japan.", "qid": "Q131925947", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Mishima Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q131925947", "kind": "shrine"}
+{"instruction": "Where is Mishima Shrine located?", "input": "", "output": "Ito", "qid": "Q131925947", "kind": "shrine"}
+{"instruction": "What type of religious site is Mishima Shrine?", "input": "", "output": "Mishima shrine", "qid": "Q131925947", "kind": "shrine"}
+{"instruction": "What are the coordinates of Mishima Shrine?", "input": "", "output": "34.9064, 139.1338", "qid": "Q131925947", "kind": "shrine"}
+{"instruction": "What is Mishima Shrine?", "input": "", "output": "Mishima Shrine is a Shinto shrine located in Seiyo, Japan.", "qid": "Q132125268", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Mishima Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q132125268", "kind": "shrine"}
+{"instruction": "Where is Mishima Shrine located?", "input": "", "output": "Seiyo", "qid": "Q132125268", "kind": "shrine"}
+{"instruction": "What type of religious site is Mishima Shrine?", "input": "", "output": "Mishima shrine", "qid": "Q132125268", "kind": "shrine"}
+{"instruction": "What is Mishima Shrine?", "input": "", "output": "Mishima Shrine is a Shinto shrine located in Yawatahama, Japan.", "qid": "Q132125269", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Mishima Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q132125269", "kind": "shrine"}
+{"instruction": "Where is Mishima Shrine located?", "input": "", "output": "Yawatahama", "qid": "Q132125269", "kind": "shrine"}
+{"instruction": "What type of religious site is Mishima Shrine?", "input": "", "output": "Mishima shrine", "qid": "Q132125269", "kind": "shrine"}
+{"instruction": "What are the coordinates of Mishima Shrine?", "input": "", "output": "33.4934, 132.3968", "qid": "Q132125269", "kind": "shrine"}
+{"instruction": "What is Mishima Shrine?", "input": "", "output": "Mishima Shrine is a Shinto shrine located in Nanae, Japan.", "qid": "Q132125271", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Mishima Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q132125271", "kind": "shrine"}
+{"instruction": "Where is Mishima Shrine located?", "input": "", "output": "Nanae", "qid": "Q132125271", "kind": "shrine"}
+{"instruction": "What type of religious site is Mishima Shrine?", "input": "", "output": "Mishima shrine", "qid": "Q132125271", "kind": "shrine"}
+{"instruction": "What are the coordinates of Mishima Shrine?", "input": "", "output": "41.8969, 140.6915", "qid": "Q132125271", "kind": "shrine"}
+{"instruction": "What is Mishima Shrine?", "input": "", "output": "Mishima Shrine is a Shinto shrine located in Isumi, Japan.", "qid": "Q134594968", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Mishima Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q134594968", "kind": "shrine"}
+{"instruction": "Where is Mishima Shrine located?", "input": "", "output": "Isumi", "qid": "Q134594968", "kind": "shrine"}
+{"instruction": "What type of religious site is Mishima Shrine?", "input": "", "output": "Mishima shrine", "qid": "Q134594968", "kind": "shrine"}
+{"instruction": "What are the coordinates of Mishima Shrine?", "input": "", "output": "35.2199, 140.3408", "qid": "Q134594968", "kind": "shrine"}
+{"instruction": "What is Mishima Shrine?", "input": "", "output": "Mishima Shrine is a Shinto shrine located in Minamiboso, Japan.", "qid": "Q134595578", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Mishima Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q134595578", "kind": "shrine"}
+{"instruction": "Where is Mishima Shrine located?", "input": "", "output": "Minamiboso", "qid": "Q134595578", "kind": "shrine"}
+{"instruction": "What type of religious site is Mishima Shrine?", "input": "", "output": "Mishima shrine", "qid": "Q134595578", "kind": "shrine"}
+{"instruction": "What is Mishima Shrine?", "input": "", "output": "Mishima Shrine is a Shinto shrine located in Minamiboso, Japan.", "qid": "Q134595613", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Mishima Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q134595613", "kind": "shrine"}
+{"instruction": "Where is Mishima Shrine located?", "input": "", "output": "Minamiboso", "qid": "Q134595613", "kind": "shrine"}
+{"instruction": "What type of religious site is Mishima Shrine?", "input": "", "output": "Mishima shrine", "qid": "Q134595613", "kind": "shrine"}
+{"instruction": "What is Mishima Shrine?", "input": "", "output": "Mishima Shrine is a Shinto shrine located in Kimitsu, Japan.", "qid": "Q134595786", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Mishima Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q134595786", "kind": "shrine"}
+{"instruction": "Where is Mishima Shrine located?", "input": "", "output": "Kimitsu", "qid": "Q134595786", "kind": "shrine"}
+{"instruction": "What type of religious site is Mishima Shrine?", "input": "", "output": "Mishima shrine", "qid": "Q134595786", "kind": "shrine"}
+{"instruction": "What is Ōyamazumi Shrine?", "input": "", "output": "Ōyamazumi Shrine is a Shinto shrine located in Otaki, Japan.", "qid": "Q134596100", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Ōyamazumi Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q134596100", "kind": "shrine"}
+{"instruction": "Where is Ōyamazumi Shrine located?", "input": "", "output": "Otaki", "qid": "Q134596100", "kind": "shrine"}
+{"instruction": "What type of religious site is Ōyamazumi Shrine?", "input": "", "output": "Mishima shrine", "qid": "Q134596100", "kind": "shrine"}
+{"instruction": "What is Mishima Shrine?", "input": "", "output": "Mishima Shrine is a Shinto shrine located in Kisarazu, Japan.", "qid": "Q134597289", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Mishima Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q134597289", "kind": "shrine"}
+{"instruction": "Where is Mishima Shrine located?", "input": "", "output": "Kisarazu", "qid": "Q134597289", "kind": "shrine"}
+{"instruction": "What type of religious site is Mishima Shrine?", "input": "", "output": "Mishima shrine", "qid": "Q134597289", "kind": "shrine"}
+{"instruction": "What is Mishima Shrine?", "input": "", "output": "Mishima Shrine is a Shinto shrine located in Mobara, Japan.", "qid": "Q134598123", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Mishima Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q134598123", "kind": "shrine"}
+{"instruction": "Where is Mishima Shrine located?", "input": "", "output": "Mobara", "qid": "Q134598123", "kind": "shrine"}
+{"instruction": "What type of religious site is Mishima Shrine?", "input": "", "output": "Mishima shrine", "qid": "Q134598123", "kind": "shrine"}
+{"instruction": "What are the coordinates of Mishima Shrine?", "input": "", "output": "35.4144, 140.2775", "qid": "Q134598123", "kind": "shrine"}
+{"instruction": "What is Mishima Shrine?", "input": "", "output": "Mishima Shrine is a Shinto shrine located in Noda, Japan.", "qid": "Q134598428", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Mishima Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q134598428", "kind": "shrine"}
+{"instruction": "Where is Mishima Shrine located?", "input": "", "output": "Noda", "qid": "Q134598428", "kind": "shrine"}
+{"instruction": "What type of religious site is Mishima Shrine?", "input": "", "output": "Mishima shrine", "qid": "Q134598428", "kind": "shrine"}
+{"instruction": "What is Mishima Shrine?", "input": "", "output": "Mishima Shrine is a Shinto shrine located in Tateyama, Japan.", "qid": "Q134598624", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Mishima Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q134598624", "kind": "shrine"}
+{"instruction": "Where is Mishima Shrine located?", "input": "", "output": "Tateyama", "qid": "Q134598624", "kind": "shrine"}
+{"instruction": "What type of religious site is Mishima Shrine?", "input": "", "output": "Mishima shrine", "qid": "Q134598624", "kind": "shrine"}
+{"instruction": "What are the coordinates of Mishima Shrine?", "input": "", "output": "35.0018, 139.9144", "qid": "Q134598624", "kind": "shrine"}
+{"instruction": "What is Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi Shrine is a Shinto shrine located in Kamo district, Japan.", "qid": "Q11381861", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi sanjin", "qid": "Q11381861", "kind": "shrine"}
+{"instruction": "Where is Sumiyoshi Shrine located?", "input": "", "output": "Kamo district, Kasai, Harima Province", "qid": "Q11381861", "kind": "shrine"}
+{"instruction": "What type of religious site is Sumiyoshi Shrine?", "input": "", "output": "Kokuhei-sha, Shikinai Ronsha, shrine dedicated to Empress Jingū, Sumiyoshi shrine", "qid": "Q11381861", "kind": "shrine"}
+{"instruction": "What are the coordinates of Sumiyoshi Shrine?", "input": "", "output": "34.9353, 134.8286", "qid": "Q11381861", "kind": "shrine"}
+{"instruction": "What is Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi Shrine is a Shinto shrine located in Takarazuka, Japan.", "qid": "Q11381864", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi sanjin", "qid": "Q11381864", "kind": "shrine"}
+{"instruction": "Where is Sumiyoshi Shrine located?", "input": "", "output": "Takarazuka", "qid": "Q11381864", "kind": "shrine"}
+{"instruction": "What type of religious site is Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi shrine", "qid": "Q11381864", "kind": "shrine"}
+{"instruction": "What are the coordinates of Sumiyoshi Shrine?", "input": "", "output": "34.7999, 135.3717", "qid": "Q11381864", "kind": "shrine"}
+{"instruction": "What is Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi Shrine is a Shinto shrine located in Uto, Japan.", "qid": "Q11381865", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi sanjin", "qid": "Q11381865", "kind": "shrine"}
+{"instruction": "Where is Sumiyoshi Shrine located?", "input": "", "output": "Uto", "qid": "Q11381865", "kind": "shrine"}
+{"instruction": "What type of religious site is Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi shrine", "qid": "Q11381865", "kind": "shrine"}
+{"instruction": "What are the coordinates of Sumiyoshi Shrine?", "input": "", "output": "32.7082, 130.5910", "qid": "Q11381865", "kind": "shrine"}
+{"instruction": "What is Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi Shrine is a Shinto shrine located in Miyazaki, Japan.", "qid": "Q11381866", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi sanjin", "qid": "Q11381866", "kind": "shrine"}
+{"instruction": "Where is Sumiyoshi Shrine located?", "input": "", "output": "Miyazaki", "qid": "Q11381866", "kind": "shrine"}
+{"instruction": "What type of religious site is Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi shrine", "qid": "Q11381866", "kind": "shrine"}
+{"instruction": "What are the coordinates of Sumiyoshi Shrine?", "input": "", "output": "31.9825, 131.4768", "qid": "Q11381866", "kind": "shrine"}
+{"instruction": "What is Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi Shrine is a Shinto shrine located in Otaru, Japan.", "qid": "Q11381867", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi sanjin, Empress Jingū", "qid": "Q11381867", "kind": "shrine"}
+{"instruction": "Where is Sumiyoshi Shrine located?", "input": "", "output": "Otaru", "qid": "Q11381867", "kind": "shrine"}
+{"instruction": "What type of religious site is Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi shrine", "qid": "Q11381867", "kind": "shrine"}
+{"instruction": "What are the coordinates of Sumiyoshi Shrine?", "input": "", "output": "43.1829, 141.0032", "qid": "Q11381867", "kind": "shrine"}
+{"instruction": "What is Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi Shrine is a Shinto shrine located in Akashi, Japan.", "qid": "Q11381868", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi sanjin", "qid": "Q11381868", "kind": "shrine"}
+{"instruction": "Where is Sumiyoshi Shrine located?", "input": "", "output": "Akashi", "qid": "Q11381868", "kind": "shrine"}
+{"instruction": "What type of religious site is Sumiyoshi Shrine?", "input": "", "output": "shrine dedicated to Empress Jingū, Sumiyoshi shrine", "qid": "Q11381868", "kind": "shrine"}
+{"instruction": "What are the coordinates of Sumiyoshi Shrine?", "input": "", "output": "34.6770, 134.9102", "qid": "Q11381868", "kind": "shrine"}
+{"instruction": "What is Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi Shrine is a Shinto shrine located in Tsukuda, Japan.", "qid": "Q11381869", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi sanjin, Tokugawa Ieyasu, Empress Jingū", "qid": "Q11381869", "kind": "shrine"}
+{"instruction": "Where is Sumiyoshi Shrine located?", "input": "", "output": "Tsukuda", "qid": "Q11381869", "kind": "shrine"}
+{"instruction": "What type of religious site is Sumiyoshi Shrine?", "input": "", "output": "shrine dedicated to Empress Jingū, Sumiyoshi shrine", "qid": "Q11381869", "kind": "shrine"}
+{"instruction": "What are the coordinates of Sumiyoshi Shrine?", "input": "", "output": "35.6680, 139.7833", "qid": "Q11381869", "kind": "shrine"}
+{"instruction": "What is Sumiyoshi Shrine, Kawachinagano?", "input": "", "output": "Sumiyoshi Shrine, Kawachinagano is a Shinto shrine located in Kawachinagano, Japan.", "qid": "Q11381870", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Sumiyoshi Shrine, Kawachinagano?", "input": "", "output": "Sumiyoshi sanjin", "qid": "Q11381870", "kind": "shrine"}
+{"instruction": "Where is Sumiyoshi Shrine, Kawachinagano located?", "input": "", "output": "Kawachinagano", "qid": "Q11381870", "kind": "shrine"}
+{"instruction": "What type of religious site is Sumiyoshi Shrine, Kawachinagano?", "input": "", "output": "Sumiyoshi shrine", "qid": "Q11381870", "kind": "shrine"}
+{"instruction": "What are the coordinates of Sumiyoshi Shrine, Kawachinagano?", "input": "", "output": "34.4539, 135.5531", "qid": "Q11381870", "kind": "shrine"}
+{"instruction": "What is Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi Shrine is a Shinto shrine located in Nishi-ku, Japan.", "qid": "Q11381871", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi sanjin", "qid": "Q11381871", "kind": "shrine"}
+{"instruction": "Where is Sumiyoshi Shrine located?", "input": "", "output": "Nishi-ku", "qid": "Q11381871", "kind": "shrine"}
+{"instruction": "What type of religious site is Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi shrine", "qid": "Q11381871", "kind": "shrine"}
+{"instruction": "What are the coordinates of Sumiyoshi Shrine?", "input": "", "output": "34.7473, 135.0163", "qid": "Q11381871", "kind": "shrine"}
+{"instruction": "What is Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi Shrine is a Shinto shrine located in Kakuda, Japan.", "qid": "Q11381872", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi sanjin", "qid": "Q11381872", "kind": "shrine"}
+{"instruction": "Where is Sumiyoshi Shrine located?", "input": "", "output": "Kakuda", "qid": "Q11381872", "kind": "shrine"}
+{"instruction": "What type of religious site is Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi shrine", "qid": "Q11381872", "kind": "shrine"}
+{"instruction": "What are the coordinates of Sumiyoshi Shrine?", "input": "", "output": "37.9413, 140.7981", "qid": "Q11381872", "kind": "shrine"}
+{"instruction": "What is Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi Shrine is a Shinto shrine located in Toyonaka, Japan.", "qid": "Q11381873", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi sanjin", "qid": "Q11381873", "kind": "shrine"}
+{"instruction": "Where is Sumiyoshi Shrine located?", "input": "", "output": "Toyonaka", "qid": "Q11381873", "kind": "shrine"}
+{"instruction": "What type of religious site is Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi shrine", "qid": "Q11381873", "kind": "shrine"}
+{"instruction": "What are the coordinates of Sumiyoshi Shrine?", "input": "", "output": "34.7699, 135.4872", "qid": "Q11381873", "kind": "shrine"}
+{"instruction": "What is Iriyamase Sengen Shrine?", "input": "", "output": "Iriyamase Sengen Shrine is a Shinto shrine located in Fuji, Japan.", "qid": "Q11388891", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Iriyamase Sengen Shrine?", "input": "", "output": "Konohanasakuyahime", "qid": "Q11388891", "kind": "shrine"}
+{"instruction": "Where is Iriyamase Sengen Shrine located?", "input": "", "output": "Fuji", "qid": "Q11388891", "kind": "shrine"}
+{"instruction": "What type of religious site is Iriyamase Sengen Shrine?", "input": "", "output": "Sengen shrine", "qid": "Q11388891", "kind": "shrine"}
+{"instruction": "What are the coordinates of Iriyamase Sengen Shrine?", "input": "", "output": "35.1930, 138.6461", "qid": "Q11388891", "kind": "shrine"}
+{"instruction": "What is Fuji Omuro Sengen Shrine?", "input": "", "output": "Fuji Omuro Sengen Shrine is a Shinto shrine located in Fujikawaguchiko, Japan.", "qid": "Q11395081", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Fuji Omuro Sengen Shrine?", "input": "", "output": "Konohanasakuyahime", "qid": "Q11395081", "kind": "shrine"}
+{"instruction": "Where is Fuji Omuro Sengen Shrine located?", "input": "", "output": "Fujikawaguchiko", "qid": "Q11395081", "kind": "shrine"}
+{"instruction": "What type of religious site is Fuji Omuro Sengen Shrine?", "input": "", "output": "Sengen shrine", "qid": "Q11395081", "kind": "shrine"}
+{"instruction": "What are the coordinates of Fuji Omuro Sengen Shrine?", "input": "", "output": "35.4000, 138.7552", "qid": "Q11395081", "kind": "shrine"}
+{"instruction": "What is Kitaguchi Hongū Fuji Sengen Shrine?", "input": "", "output": "Kitaguchi Hongū Fuji Sengen Shrine is a Shinto shrine located in Fujiyoshida, Japan.", "qid": "Q11401286", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Kitaguchi Hongū Fuji Sengen Shrine?", "input": "", "output": "Konohanasakuyahime, Ninigi, Ōyamatsumi", "qid": "Q11401286", "kind": "shrine"}
+{"instruction": "Where is Kitaguchi Hongū Fuji Sengen Shrine located?", "input": "", "output": "Fujiyoshida", "qid": "Q11401286", "kind": "shrine"}
+{"instruction": "What type of religious site is Kitaguchi Hongū Fuji Sengen Shrine?", "input": "", "output": "Sengen shrine", "qid": "Q11401286", "kind": "shrine"}
+{"instruction": "What are the coordinates of Kitaguchi Hongū Fuji Sengen Shrine?", "input": "", "output": "35.4708, 138.7924", "qid": "Q11401286", "kind": "shrine"}
+{"instruction": "What is Tōka-ebisu Shrine?", "input": "", "output": "Tōka-ebisu Shrine is a Shinto shrine located in Hakata-ku, Japan.", "qid": "Q11405077", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Tōka-ebisu Shrine?", "input": "", "output": "Kotoshironushi, Ōkuninushi", "qid": "Q11405077", "kind": "shrine"}
+{"instruction": "Where is Tōka-ebisu Shrine located?", "input": "", "output": "Hakata-ku, Higashi-kōen", "qid": "Q11405077", "kind": "shrine"}
+{"instruction": "What type of religious site is Tōka-ebisu Shrine?", "input": "", "output": "Ebisu shrine", "qid": "Q11405077", "kind": "shrine"}
+{"instruction": "What are the coordinates of Tōka-ebisu Shrine?", "input": "", "output": "33.6039, 130.4186", "qid": "Q11405077", "kind": "shrine"}
+{"instruction": "What is Karatsu Shrine?", "input": "", "output": "Karatsu Shrine is a Shinto shrine located in Karatsu, Japan.", "qid": "Q11418639", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Karatsu Shrine?", "input": "", "output": "Sumiyoshi sanjin", "qid": "Q11418639", "kind": "shrine"}
+{"instruction": "Where is Karatsu Shrine located?", "input": "", "output": "Karatsu", "qid": "Q11418639", "kind": "shrine"}
+{"instruction": "What type of religious site is Karatsu Shrine?", "input": "", "output": "Sumiyoshi shrine", "qid": "Q11418639", "kind": "shrine"}
+{"instruction": "What are the coordinates of Karatsu Shrine?", "input": "", "output": "33.4522, 129.9696", "qid": "Q11418639", "kind": "shrine"}
+{"instruction": "What is Shikanjima Sumiyoshi Shrine?", "input": "", "output": "Shikanjima Sumiyoshi Shrine is a Shinto shrine located in Konohana-ku, Japan.", "qid": "Q11420142", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Shikanjima Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi sanjin", "qid": "Q11420142", "kind": "shrine"}
+{"instruction": "Where is Shikanjima Sumiyoshi Shrine located?", "input": "", "output": "Konohana-ku", "qid": "Q11420142", "kind": "shrine"}
+{"instruction": "What type of religious site is Shikanjima Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi shrine", "qid": "Q11420142", "kind": "shrine"}
+{"instruction": "What are the coordinates of Shikanjima Sumiyoshi Shrine?", "input": "", "output": "34.6829, 135.4570", "qid": "Q11420142", "kind": "shrine"}
+{"instruction": "What is Oowadasumiyoshi Shrine (Nishiyodogawa-ku)?", "input": "", "output": "Oowadasumiyoshi Shrine (Nishiyodogawa-ku) is a Shinto shrine located in Nishiyodogawa-ku, Japan.", "qid": "Q11433513", "kind": "shrine"}
+{"instruction": "Where is Oowadasumiyoshi Shrine (Nishiyodogawa-ku) located?", "input": "", "output": "Nishiyodogawa-ku", "qid": "Q11433513", "kind": "shrine"}
+{"instruction": "What type of religious site is Oowadasumiyoshi Shrine (Nishiyodogawa-ku)?", "input": "", "output": "Sumiyoshi shrine", "qid": "Q11433513", "kind": "shrine"}
+{"instruction": "What are the coordinates of Oowadasumiyoshi Shrine (Nishiyodogawa-ku)?", "input": "", "output": "34.7087, 135.4438", "qid": "Q11433513", "kind": "shrine"}
+{"instruction": "What is Amagasuka Sumiyoshi Shrine?", "input": "", "output": "Amagasuka Sumiyoshi Shrine is a Shinto shrine located in Yokkaichi, Japan.", "qid": "Q11442148", "kind": "shrine"}
+{"instruction": "Where is Amagasuka Sumiyoshi Shrine located?", "input": "", "output": "Yokkaichi", "qid": "Q11442148", "kind": "shrine"}
+{"instruction": "What type of religious site is Amagasuka Sumiyoshi Shrine?", "input": "", "output": "Sumiyoshi shrine", "qid": "Q11442148", "kind": "shrine"}
+{"instruction": "What are the coordinates of Amagasuka Sumiyoshi Shrine?", "input": "", "output": "35.0110, 136.6717", "qid": "Q11442148", "kind": "shrine"}
+{"instruction": "What is Oyamazumi Shrine?", "input": "", "output": "Oyamazumi Shrine is a Shinto shrine located in Ichihara, Japan.", "qid": "Q111024061", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Oyamazumi Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q111024061", "kind": "shrine"}
+{"instruction": "Where is Oyamazumi Shrine located?", "input": "", "output": "Ichihara", "qid": "Q111024061", "kind": "shrine"}
+{"instruction": "What type of religious site is Oyamazumi Shrine?", "input": "", "output": "Mishima shrine", "qid": "Q111024061", "kind": "shrine"}
+{"instruction": "What are the coordinates of Oyamazumi Shrine?", "input": "", "output": "35.3176, 140.1411", "qid": "Q111024061", "kind": "shrine"}
+{"instruction": "What is Mishima Shrine?", "input": "", "output": "Mishima Shrine is a Shinto shrine located in Ichihara, Japan.", "qid": "Q111024077", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Mishima Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q111024077", "kind": "shrine"}
+{"instruction": "Where is Mishima Shrine located?", "input": "", "output": "Ichihara", "qid": "Q111024077", "kind": "shrine"}
+{"instruction": "What type of religious site is Mishima Shrine?", "input": "", "output": "Mishima shrine", "qid": "Q111024077", "kind": "shrine"}
+{"instruction": "What are the coordinates of Mishima Shrine?", "input": "", "output": "35.4005, 140.1361", "qid": "Q111024077", "kind": "shrine"}
+{"instruction": "What is Oyamazumi Shrine?", "input": "", "output": "Oyamazumi Shrine is a Shinto shrine located in Ichihara, Japan.", "qid": "Q111024273", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Oyamazumi Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q111024273", "kind": "shrine"}
+{"instruction": "Where is Oyamazumi Shrine located?", "input": "", "output": "Ichihara", "qid": "Q111024273", "kind": "shrine"}
+{"instruction": "What type of religious site is Oyamazumi Shrine?", "input": "", "output": "Mishima shrine", "qid": "Q111024273", "kind": "shrine"}
+{"instruction": "What are the coordinates of Oyamazumi Shrine?", "input": "", "output": "35.2905, 140.1811", "qid": "Q111024273", "kind": "shrine"}
+{"instruction": "What is Mishima Shrine?", "input": "", "output": "Mishima Shrine is a Shinto shrine located in Ichihara, Japan.", "qid": "Q111024448", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Mishima Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q111024448", "kind": "shrine"}
+{"instruction": "Where is Mishima Shrine located?", "input": "", "output": "Ichihara", "qid": "Q111024448", "kind": "shrine"}
+{"instruction": "What type of religious site is Mishima Shrine?", "input": "", "output": "Mishima shrine", "qid": "Q111024448", "kind": "shrine"}
+{"instruction": "What are the coordinates of Mishima Shrine?", "input": "", "output": "35.4041, 140.1690", "qid": "Q111024448", "kind": "shrine"}
+{"instruction": "What is Oyamazumi Shrine?", "input": "", "output": "Oyamazumi Shrine is a Shinto shrine located in Ichihara, Japan.", "qid": "Q111024454", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Oyamazumi Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q111024454", "kind": "shrine"}
+{"instruction": "Where is Oyamazumi Shrine located?", "input": "", "output": "Ichihara", "qid": "Q111024454", "kind": "shrine"}
+{"instruction": "What type of religious site is Oyamazumi Shrine?", "input": "", "output": "Mishima shrine", "qid": "Q111024454", "kind": "shrine"}
+{"instruction": "What are the coordinates of Oyamazumi Shrine?", "input": "", "output": "35.3425, 140.1578", "qid": "Q111024454", "kind": "shrine"}
+{"instruction": "What is Oyamazumi Shrine?", "input": "", "output": "Oyamazumi Shrine is a Shinto shrine located in Ichihara, Japan.", "qid": "Q111024472", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Oyamazumi Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q111024472", "kind": "shrine"}
+{"instruction": "Where is Oyamazumi Shrine located?", "input": "", "output": "Ichihara", "qid": "Q111024472", "kind": "shrine"}
+{"instruction": "What type of religious site is Oyamazumi Shrine?", "input": "", "output": "Mishima shrine", "qid": "Q111024472", "kind": "shrine"}
+{"instruction": "What is Oyamazumi Shrine?", "input": "", "output": "Oyamazumi Shrine is a Shinto shrine located in Ichihara, Japan.", "qid": "Q111024481", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Oyamazumi Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q111024481", "kind": "shrine"}
+{"instruction": "Where is Oyamazumi Shrine located?", "input": "", "output": "Ichihara", "qid": "Q111024481", "kind": "shrine"}
+{"instruction": "What type of religious site is Oyamazumi Shrine?", "input": "", "output": "Mishima shrine", "qid": "Q111024481", "kind": "shrine"}
+{"instruction": "What are the coordinates of Oyamazumi Shrine?", "input": "", "output": "35.2648, 140.1539", "qid": "Q111024481", "kind": "shrine"}
+{"instruction": "What is Mishima Shrine?", "input": "", "output": "Mishima Shrine is a Shinto shrine located in Matsue, Japan.", "qid": "Q118984921", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Mishima Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q118984921", "kind": "shrine"}
+{"instruction": "Where is Mishima Shrine located?", "input": "", "output": "Matsue", "qid": "Q118984921", "kind": "shrine"}
+{"instruction": "What type of religious site is Mishima Shrine?", "input": "", "output": "Mishima shrine", "qid": "Q118984921", "kind": "shrine"}
+{"instruction": "What are the coordinates of Mishima Shrine?", "input": "", "output": "35.6854, 139.8717", "qid": "Q118984921", "kind": "shrine"}
+{"instruction": "What is Mishima Shrine?", "input": "", "output": "Mishima Shrine is a Shinto shrine located in Oi, Japan.", "qid": "Q119929569", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Mishima Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q119929569", "kind": "shrine"}
+{"instruction": "Where is Mishima Shrine located?", "input": "", "output": "Oi", "qid": "Q119929569", "kind": "shrine"}
+{"instruction": "What type of religious site is Mishima Shrine?", "input": "", "output": "Mishima shrine", "qid": "Q119929569", "kind": "shrine"}
+{"instruction": "What are the coordinates of Mishima Shrine?", "input": "", "output": "35.3201, 139.1609", "qid": "Q119929569", "kind": "shrine"}
+{"instruction": "What is Meoto Ebisu Shrine?", "input": "", "output": "Meoto Ebisu Shrine is a Shinto shrine located in Kami-kawabatamachi, Japan.", "qid": "Q124060403", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Meoto Ebisu Shrine?", "input": "", "output": "Tamakushihime, Kotoshironushi", "qid": "Q124060403", "kind": "shrine"}
+{"instruction": "Where is Meoto Ebisu Shrine located?", "input": "", "output": "Kami-kawabatamachi", "qid": "Q124060403", "kind": "shrine"}
+{"instruction": "What type of religious site is Meoto Ebisu Shrine?", "input": "", "output": "setsumatsusha, Ebisu shrine", "qid": "Q124060403", "kind": "shrine"}
+{"instruction": "What are the coordinates of Meoto Ebisu Shrine?", "input": "", "output": "33.5927, 130.4107", "qid": "Q124060403", "kind": "shrine"}
+{"instruction": "What is Katori Jingū?", "input": "", "output": "Katori Jingū is a Shinto shrine located in Katori, Japan.", "qid": "Q372380", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Katori Jingū?", "input": "", "output": "Futsunushi", "qid": "Q372380", "kind": "shrine"}
+{"instruction": "Where is Katori Jingū located?", "input": "", "output": "Katori, Shimōsa Province, Katori district", "qid": "Q372380", "kind": "shrine"}
+{"instruction": "What type of religious site is Katori Jingū?", "input": "", "output": "jingū, Katori shrine, Shrines receiving Tsukinami-sai and Niiname-sai offerings, Shikinaisha, chokusaisha", "qid": "Q372380", "kind": "shrine"}
+{"instruction": "What are the coordinates of Katori Jingū?", "input": "", "output": "35.8862, 140.5285", "qid": "Q372380", "kind": "shrine"}
+{"instruction": "What is Heian Jingū?", "input": "", "output": "Heian Jingū is a Shinto shrine located in Sakyō-ku, Japan.", "qid": "Q385141", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Heian Jingū?", "input": "", "output": "Emperor Kanmu, Emperor Kōmei", "qid": "Q385141", "kind": "shrine"}
+{"instruction": "Where is Heian Jingū located?", "input": "", "output": "Sakyō-ku", "qid": "Q385141", "kind": "shrine"}
+{"instruction": "What type of religious site is Heian Jingū?", "input": "", "output": "jingū, chokusaisha", "qid": "Q385141", "kind": "shrine"}
+{"instruction": "What are the coordinates of Heian Jingū?", "input": "", "output": "35.0167, 135.7822", "qid": "Q385141", "kind": "shrine"}
+{"instruction": "What is Ōmi Jingū?", "input": "", "output": "Ōmi Jingū is a Shinto shrine located in Otsu, Japan.", "qid": "Q385407", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Ōmi Jingū?", "input": "", "output": "Tenji", "qid": "Q385407", "kind": "shrine"}
+{"instruction": "Where is Ōmi Jingū located?", "input": "", "output": "Otsu", "qid": "Q385407", "kind": "shrine"}
+{"instruction": "What type of religious site is Ōmi Jingū?", "input": "", "output": "jingū, chokusaisha", "qid": "Q385407", "kind": "shrine"}
+{"instruction": "What are the coordinates of Ōmi Jingū?", "input": "", "output": "35.0324, 135.8513", "qid": "Q385407", "kind": "shrine"}
+{"instruction": "What is Atsuta Jingū?", "input": "", "output": "Atsuta Jingū is a Shinto shrine located in Jingū 1-chōme, Japan.", "qid": "Q482065", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Atsuta Jingū?", "input": "", "output": "Amaterasu, Kusanagi", "qid": "Q482065", "kind": "shrine"}
+{"instruction": "Where is Atsuta Jingū located?", "input": "", "output": "Jingū 1-chōme, Owari Province", "qid": "Q482065", "kind": "shrine"}
+{"instruction": "What type of religious site is Atsuta Jingū?", "input": "", "output": "Keidai-Sessha, Shikinai Supershrine, Kokuhei-sha, Shikinai Ronsha, jingū, chokusaisha", "qid": "Q482065", "kind": "shrine"}
+{"instruction": "What are the coordinates of Atsuta Jingū?", "input": "", "output": "35.1265, 136.9087", "qid": "Q482065", "kind": "shrine"}
+{"instruction": "What is Takekoma Inari Shrine?", "input": "", "output": "Takekoma Inari Shrine is a Shinto shrine located in Iwanuma, Japan.", "qid": "Q521319", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Takekoma Inari Shrine?", "input": "", "output": "Ukanomitama", "qid": "Q521319", "kind": "shrine"}
+{"instruction": "Where is Takekoma Inari Shrine located?", "input": "", "output": "Iwanuma", "qid": "Q521319", "kind": "shrine"}
+{"instruction": "What type of religious site is Takekoma Inari Shrine?", "input": "", "output": "Inari shrine", "qid": "Q521319", "kind": "shrine"}
+{"instruction": "What are the coordinates of Takekoma Inari Shrine?", "input": "", "output": "38.1050, 140.8620", "qid": "Q521319", "kind": "shrine"}
+{"instruction": "What is Kashii-gū?", "input": "", "output": "Kashii-gū is a Shinto shrine located in Kashii, Japan.", "qid": "Q631373", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Kashii-gū?", "input": "", "output": "Empress Jingū, Chūai", "qid": "Q631373", "kind": "shrine"}
+{"instruction": "Where is Kashii-gū located?", "input": "", "output": "Kashii, Chikuzen Province", "qid": "Q631373", "kind": "shrine"}
+{"instruction": "What type of religious site is Kashii-gū?", "input": "", "output": "kokushi genzaisha, shrine dedicated to Empress Jingū, chokusaisha", "qid": "Q631373", "kind": "shrine"}
+{"instruction": "What are the coordinates of Kashii-gū?", "input": "", "output": "33.6535, 130.4527", "qid": "Q631373", "kind": "shrine"}
+{"instruction": "What is Mishima Taisha?", "input": "", "output": "Mishima Taisha is a Shinto shrine located in Izu Province, Japan.", "qid": "Q650772", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Mishima Taisha?", "input": "", "output": "Kotoshironushi, Ōyamatsumi", "qid": "Q650772", "kind": "shrine"}
+{"instruction": "Where is Mishima Taisha located?", "input": "", "output": "Izu Province, Kamo district, Mishima", "qid": "Q650772", "kind": "shrine"}
+{"instruction": "What type of religious site is Mishima Taisha?", "input": "", "output": "taisha, Shikinai Successor, Shrines receiving Tsukinami-sai and Niiname-sai offerings, Shikinaisha, Mishima shrine", "qid": "Q650772", "kind": "shrine"}
+{"instruction": "What are the coordinates of Mishima Taisha?", "input": "", "output": "35.1227, 138.9187", "qid": "Q650772", "kind": "shrine"}
+{"instruction": "What is Mizu-Inari-jinja?", "input": "", "output": "Mizu-Inari-jinja is a Shinto shrine located in Nishi-Waseda, Japan.", "qid": "Q11549053", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Mizu-Inari-jinja?", "input": "", "output": "Ukanomitama, Ōmiyanome, Satahiko", "qid": "Q11549053", "kind": "shrine"}
+{"instruction": "Where is Mizu-Inari-jinja located?", "input": "", "output": "Nishi-Waseda", "qid": "Q11549053", "kind": "shrine"}
+{"instruction": "What type of religious site is Mizu-Inari-jinja?", "input": "", "output": "Inari shrine", "qid": "Q11549053", "kind": "shrine"}
+{"instruction": "What are the coordinates of Mizu-Inari-jinja?", "input": "", "output": "35.7115, 139.7153", "qid": "Q11549053", "kind": "shrine"}
+{"instruction": "What is Eifuku Inari-jina?", "input": "", "output": "Eifuku Inari-jina is a Shinto shrine located in Suginami, Japan.", "qid": "Q11550316", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Eifuku Inari-jina?", "input": "", "output": "Ukanomitama, Inari", "qid": "Q11550316", "kind": "shrine"}
+{"instruction": "Where is Eifuku Inari-jina located?", "input": "", "output": "Suginami", "qid": "Q11550316", "kind": "shrine"}
+{"instruction": "What type of religious site is Eifuku Inari-jina?", "input": "", "output": "Inari shrine", "qid": "Q11550316", "kind": "shrine"}
+{"instruction": "What are the coordinates of Eifuku Inari-jina?", "input": "", "output": "35.6724, 139.6432", "qid": "Q11550316", "kind": "shrine"}
+{"instruction": "What is Okinohata Suitengū?", "input": "", "output": "Okinohata Suitengū is a Shinto shrine located in Yanagawa, Japan.", "qid": "Q11552577", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Okinohata Suitengū?", "input": "", "output": "Antoku", "qid": "Q11552577", "kind": "shrine"}
+{"instruction": "Where is Okinohata Suitengū located?", "input": "", "output": "Yanagawa", "qid": "Q11552577", "kind": "shrine"}
+{"instruction": "What type of religious site is Okinohata Suitengū?", "input": "", "output": "Suitengū, Inari shrine", "qid": "Q11552577", "kind": "shrine"}
+{"instruction": "What are the coordinates of Okinohata Suitengū?", "input": "", "output": "33.1587, 130.3951", "qid": "Q11552577", "kind": "shrine"}
+{"instruction": "What is Koboreinari Shrine (Osaka)?", "input": "", "output": "Koboreinari Shrine (Osaka) is a Shinto shrine located in Osaka, Japan.", "qid": "Q11553804", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Koboreinari Shrine (Osaka)?", "input": "", "output": "Ukanomitama", "qid": "Q11553804", "kind": "shrine"}
+{"instruction": "Where is Koboreinari Shrine (Osaka) located?", "input": "", "output": "Osaka", "qid": "Q11553804", "kind": "shrine"}
+{"instruction": "What type of religious site is Koboreinari Shrine (Osaka)?", "input": "", "output": "Inari shrine", "qid": "Q11553804", "kind": "shrine"}
+{"instruction": "What are the coordinates of Koboreinari Shrine (Osaka)?", "input": "", "output": "34.6499, 135.5198", "qid": "Q11553804", "kind": "shrine"}
+{"instruction": "What is Suzaki Hamamiya Shinmei Shrine?", "input": "", "output": "Suzaki Hamamiya Shinmei Shrine is a Shinto shrine located in Yokkaichi, Japan.", "qid": "Q11556511", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Suzaki Hamamiya Shinmei Shrine?", "input": "", "output": "Amaterasu", "qid": "Q11556511", "kind": "shrine"}
+{"instruction": "Where is Suzaki Hamamiya Shinmei Shrine located?", "input": "", "output": "Yokkaichi", "qid": "Q11556511", "kind": "shrine"}
+{"instruction": "What type of religious site is Suzaki Hamamiya Shinmei Shrine?", "input": "", "output": "Shinmei shrine, Inari shrine", "qid": "Q11556511", "kind": "shrine"}
+{"instruction": "What are the coordinates of Suzaki Hamamiya Shinmei Shrine?", "input": "", "output": "34.9428, 136.6217", "qid": "Q11556511", "kind": "shrine"}
+{"instruction": "What is Mount Sengen?", "input": "", "output": "Mount Sengen is a Shinto shrine located in Sengenchō, Japan.", "qid": "Q11557455", "kind": "shrine"}
+{"instruction": "Where is Mount Sengen located?", "input": "", "output": "Sengenchō", "qid": "Q11557455", "kind": "shrine"}
+{"instruction": "What type of religious site is Mount Sengen?", "input": "", "output": "Sengen shrine, mountain", "qid": "Q11557455", "kind": "shrine"}
+{"instruction": "What are the coordinates of Mount Sengen?", "input": "", "output": "35.6811, 139.5025", "qid": "Q11557455", "kind": "shrine"}
+{"instruction": "What is Sengen Shrine?", "input": "", "output": "Sengen Shrine is a Shinto shrine located in Satte, Japan.", "qid": "Q11557474", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Sengen Shrine?", "input": "", "output": "Konohanasakuyahime", "qid": "Q11557474", "kind": "shrine"}
+{"instruction": "Where is Sengen Shrine located?", "input": "", "output": "Satte", "qid": "Q11557474", "kind": "shrine"}
+{"instruction": "What type of religious site is Sengen Shrine?", "input": "", "output": "Sengen shrine", "qid": "Q11557474", "kind": "shrine"}
+{"instruction": "What are the coordinates of Sengen Shrine?", "input": "", "output": "36.0797, 139.7231", "qid": "Q11557474", "kind": "shrine"}
+{"instruction": "What is Sengen Shrine?", "input": "", "output": "Sengen Shrine is a Shinto shrine located in Nishi-ku, Japan.", "qid": "Q11557475", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Sengen Shrine?", "input": "", "output": "Konohanasakuyahime", "qid": "Q11557475", "kind": "shrine"}
+{"instruction": "Where is Sengen Shrine located?", "input": "", "output": "Nishi-ku", "qid": "Q11557475", "kind": "shrine"}
+{"instruction": "What type of religious site is Sengen Shrine?", "input": "", "output": "Sengen shrine", "qid": "Q11557475", "kind": "shrine"}
+{"instruction": "What are the coordinates of Sengen Shrine?", "input": "", "output": "35.4653, 139.6094", "qid": "Q11557475", "kind": "shrine"}
+{"instruction": "What is Izumo Taisha?", "input": "", "output": "Izumo Taisha is a Shinto shrine located in Izumo, Japan.", "qid": "Q696362", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Izumo Taisha?", "input": "", "output": "Ōkuninushi", "qid": "Q696362", "kind": "shrine"}
+{"instruction": "Where is Izumo Taisha located?", "input": "", "output": "Izumo", "qid": "Q696362", "kind": "shrine"}
+{"instruction": "What type of religious site is Izumo Taisha?", "input": "", "output": "taisha, Shikinai Supershrine, Kokuhei-sha, Shikinaisha, chokusaisha", "qid": "Q696362", "kind": "shrine"}
+{"instruction": "What are the coordinates of Izumo Taisha?", "input": "", "output": "35.4019, 132.6854", "qid": "Q696362", "kind": "shrine"}
+{"instruction": "What is Hikawa Shrine?", "input": "", "output": "Hikawa Shrine is a Shinto shrine located in Adachi district, Japan.", "qid": "Q703633", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Hikawa Shrine?", "input": "", "output": "Kushinadahime, Susanoo, Ōkuninushi", "qid": "Q703633", "kind": "shrine"}
+{"instruction": "Where is Hikawa Shrine located?", "input": "", "output": "Adachi district, Musashi Province, Ōmiya-ku", "qid": "Q703633", "kind": "shrine"}
+{"instruction": "What type of religious site is Hikawa Shrine?", "input": "", "output": "Shrines receiving Tsukinami-sai and Niiname-sai offerings, Shikinaisha, Hikawa shrine, chokusaisha", "qid": "Q703633", "kind": "shrine"}
+{"instruction": "What are the coordinates of Hikawa Shrine?", "input": "", "output": "35.9170, 139.6295", "qid": "Q703633", "kind": "shrine"}
+{"instruction": "What is Oyamazumi Shrine?", "input": "", "output": "Oyamazumi Shrine is a Shinto shrine located in Iyo Province, Japan.", "qid": "Q703904", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Oyamazumi Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q703904", "kind": "shrine"}
+{"instruction": "Where is Oyamazumi Shrine located?", "input": "", "output": "Iyo Province, Ochi district, Imabari", "qid": "Q703904", "kind": "shrine"}
+{"instruction": "What type of religious site is Oyamazumi Shrine?", "input": "", "output": "Kokuhei-sha, Shikinaisha, Ōyamazumi shrine, Mishima shrine", "qid": "Q703904", "kind": "shrine"}
+{"instruction": "What are the coordinates of Oyamazumi Shrine?", "input": "", "output": "34.2479, 133.0057", "qid": "Q703904", "kind": "shrine"}
+{"instruction": "What is Kasama Inari Shrine?", "input": "", "output": "Kasama Inari Shrine is a Shinto shrine located in Kasama, Japan.", "qid": "Q704876", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Kasama Inari Shrine?", "input": "", "output": "Ukanomitama", "qid": "Q704876", "kind": "shrine"}
+{"instruction": "Where is Kasama Inari Shrine located?", "input": "", "output": "Kasama", "qid": "Q704876", "kind": "shrine"}
+{"instruction": "What type of religious site is Kasama Inari Shrine?", "input": "", "output": "Inari shrine", "qid": "Q704876", "kind": "shrine"}
+{"instruction": "What are the coordinates of Kasama Inari Shrine?", "input": "", "output": "36.3861, 140.2540", "qid": "Q704876", "kind": "shrine"}
+{"instruction": "What is Kashima Jingū?", "input": "", "output": "Kashima Jingū is a Shinto shrine located in Kashima district, Japan.", "qid": "Q706499", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Kashima Jingū?", "input": "", "output": "Takemikazuchi", "qid": "Q706499", "kind": "shrine"}
+{"instruction": "Where is Kashima Jingū located?", "input": "", "output": "Kashima district, Kyūchū, Hitachi Province, Kashima", "qid": "Q706499", "kind": "shrine"}
+{"instruction": "What type of religious site is Kashima Jingū?", "input": "", "output": "Shrines receiving Tsukinami-sai and Niiname-sai offerings, Shikinaisha, Kashima Shrine (worship), jingū, chokusaisha", "qid": "Q706499", "kind": "shrine"}
+{"instruction": "What are the coordinates of Kashima Jingū?", "input": "", "output": "35.9688, 140.6315", "qid": "Q706499", "kind": "shrine"}
+{"instruction": "What is Iwashimizu Hachimangū?", "input": "", "output": "Iwashimizu Hachimangū is a Shinto shrine located in Yawata, Japan.", "qid": "Q710098", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Iwashimizu Hachimangū?", "input": "", "output": "Hachiman", "qid": "Q710098", "kind": "shrine"}
+{"instruction": "Where is Iwashimizu Hachimangū located?", "input": "", "output": "Yawata", "qid": "Q710098", "kind": "shrine"}
+{"instruction": "What type of religious site is Iwashimizu Hachimangū?", "input": "", "output": "kokushi genzaisha, Hachiman shrine, shrine dedicated to Empress Jingū, chokusaisha", "qid": "Q710098", "kind": "shrine"}
+{"instruction": "What are the coordinates of Iwashimizu Hachimangū?", "input": "", "output": "34.8797, 135.7000", "qid": "Q710098", "kind": "shrine"}
+{"instruction": "What is Mishima Shrine?", "input": "", "output": "Mishima Shrine is a Shinto shrine located in Shikokuchūō-shi, Japan.", "qid": "Q11355276", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Mishima Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q11355276", "kind": "shrine"}
+{"instruction": "Where is Mishima Shrine located?", "input": "", "output": "Shikokuchūō-shi", "qid": "Q11355276", "kind": "shrine"}
+{"instruction": "What type of religious site is Mishima Shrine?", "input": "", "output": "Mishima shrine", "qid": "Q11355276", "kind": "shrine"}
+{"instruction": "What are the coordinates of Mishima Shrine?", "input": "", "output": "33.9845, 133.5454", "qid": "Q11355276", "kind": "shrine"}
+{"instruction": "What is Mishima Shrine?", "input": "", "output": "Mishima Shrine is a Shinto shrine located in Tokushima, Japan.", "qid": "Q11355277", "kind": "shrine"}
+{"instruction": "Which kami (deity) is enshrined at Mishima Shrine?", "input": "", "output": "Ōyamatsumi", "qid": "Q11355277", "kind": "shrine"}
+{"instruction": "Where is Mishima Shrine located?", "input": "", "output": "Tokushima", "qid": "Q11355277", "kind": "shrine"}
+{"instruction": "What type of religious site is Mishima Shrine?", "input": "", "output": "Mishima shrine", "qid": "Q11355277", "kind": "shrine"}
+{"instruction": "What are the coordinates of Mishima Shrine?", "input": "", "output": "34.0748, 134.5420", "qid": "Q11355277", "kind": "shrine"}
+{"instruction": "What is Takamimusubi?", "input": "", "output": "Takamimusubi is a kami (deity) in Shinto.", "qid": "Q125400", "kind": "kami"}
+{"instruction": "Who are the children of Takamimusubi in Japanese mythology?", "input": "", "output": "Ame no Mikudaru, Ame no Ikutama, Isetsuhiko, Takuhadachijihime, Futodama, Ame no Oshihi, Mihotsuhime, Sukunabikona, Omoikane", "qid": "Q125400", "kind": "kami"}
+{"instruction": "What is Kompira?", "input": "", "output": "Kompira is a kami (deity) in Shinto.", "qid": "Q167077", "kind": "kami"}
+{"instruction": "What is Hachiman?", "input": "", "output": "Hachiman is a kami (deity) in Shinto.", "qid": "Q261637", "kind": "kami"}
+{"instruction": "What is Susanoo?", "input": "", "output": "Susanoo is a kami (deity) in Shinto.", "qid": "Q272993", "kind": "kami"}
+{"instruction": "Who are the parents of Susanoo in Japanese mythology?", "input": "", "output": "Izanami, Izanagi", "qid": "Q272993", "kind": "kami"}
+{"instruction": "Who are the children of Susanoo in Japanese mythology?", "input": "", "output": "Yashimajinumi no kami, Yamato no ōkuni tama no kami, Kumanokusubi, Ikutsuhikone, Ichikishimahime, Ame no Hohi, Amatsuhikone, Oyatsuhime and Tsumatsuhime, Takiribime, Tagitsuhime, Wakumusubi, Isotakeru, Suseri-hime, Ōkuninushi, Ukanomitama, Toshigami, Ame no Oshihomimi", "qid": "Q272993", "kind": "kami"}
+{"instruction": "What is Ōkuninushi?", "input": "", "output": "Ōkuninushi is a kami (deity) in Shinto.", "qid": "Q276944", "kind": "kami"}
+{"instruction": "Who are the parents of Ōkuninushi in Japanese mythology?", "input": "", "output": "Kushinadahime, Ame no Fuyu Kinu no kami, Sashikuni Wakahime, Susanoo", "qid": "Q276944", "kind": "kami"}
+{"instruction": "Who are the children of Ōkuninushi in Japanese mythology?", "input": "", "output": "Honoakari, Torinarumi no kami, Isetsuhiko, Shitateruhime, Ki no mata no kami, Takeminakata, Kotoshironushi, Ajisukitakahikone", "qid": "Q276944", "kind": "kami"}
+{"instruction": "What is Ajisukitakahikone?", "input": "", "output": "Ajisukitakahikone is a kami (deity) in Shinto.", "qid": "Q506610", "kind": "kami"}
+{"instruction": "Who are the parents of Ajisukitakahikone in Japanese mythology?", "input": "", "output": "Takiribime, Ōkuninushi", "qid": "Q506610", "kind": "kami"}
+{"instruction": "What is Ōyamatsumi?", "input": "", "output": "Ōyamatsumi is a kami (deity) in Shinto.", "qid": "Q386563", "kind": "kami"}
+{"instruction": "Who are the parents of Ōyamatsumi in Japanese mythology?", "input": "", "output": "Izanami, Izanagi", "qid": "Q386563", "kind": "kami"}
+{"instruction": "Who are the children of Ōyamatsumi in Japanese mythology?", "input": "", "output": "Tenazuchi, Ashinazuchi, Konohanachiruhime, Kamuōichihime, Iwanagahime, Konohanasakuyahime", "qid": "Q386563", "kind": "kami"}
+{"instruction": "What is Three Pioneer Kami?", "input": "", "output": "Three Pioneer Kami is a kami (deity) in Shinto.", "qid": "Q402052", "kind": "kami"}
+{"instruction": "What is Amaterasu?", "input": "", "output": "Amaterasu is a kami (deity) in Shinto.", "qid": "Q455602", "kind": "kami"}
+{"instruction": "Who are the parents of Amaterasu in Japanese mythology?", "input": "", "output": "Izanami, Izanagi", "qid": "Q455602", "kind": "kami"}
+{"instruction": "Who are the children of Amaterasu in Japanese mythology?", "input": "", "output": "Kumanokusubi, Ikutsuhikone, Ichikishimahime, Ame no Hohi, Amatsuhikone, Takiribime, Tagitsuhime, Ame no Oshihomimi", "qid": "Q455602", "kind": "kami"}
+{"instruction": "What is Ame no Oshihomimi?", "input": "", "output": "Ame no Oshihomimi is a kami (deity) in Shinto.", "qid": "Q462555", "kind": "kami"}
+{"instruction": "Who are the parents of Ame no Oshihomimi in Japanese mythology?", "input": "", "output": "Amaterasu, Susanoo", "qid": "Q462555", "kind": "kami"}
+{"instruction": "Who are the children of Ame no Oshihomimi in Japanese mythology?", "input": "", "output": "Nigihayahi, Ninigi", "qid": "Q462555", "kind": "kami"}
+{"instruction": "What is Akaruhime?", "input": "", "output": "Akaruhime is a kami (deity) in Shinto.", "qid": "Q555212", "kind": "kami"}
+{"instruction": "What is Tsukuyomi?", "input": "", "output": "Tsukuyomi is a kami (deity) in Shinto.", "qid": "Q595520", "kind": "kami"}
+{"instruction": "Who are the parents of Tsukuyomi in Japanese mythology?", "input": "", "output": "Izanami, Izanagi", "qid": "Q595520", "kind": "kami"}
+{"instruction": "What is Tamanooya no Mikoto?", "input": "", "output": "Tamanooya no Mikoto is a kami (deity) in Shinto.", "qid": "Q11572729", "kind": "kami"}
+{"instruction": "Who are the parents of Tamanooya no Mikoto in Japanese mythology?", "input": "", "output": "Takuhadachijihime, Ame no Oshihomimi", "qid": "Q11572729", "kind": "kami"}
+{"instruction": "What is Naobinokami?", "input": "", "output": "Naobinokami is a kami (deity) in Shinto.", "qid": "Q11581794", "kind": "kami"}
+{"instruction": "Who are the parents of Naobinokami in Japanese mythology?", "input": "", "output": "Izanagi", "qid": "Q11581794", "kind": "kami"}
+{"instruction": "What is Iwakamutsukari?", "input": "", "output": "Iwakamutsukari is a kami (deity) in Shinto.", "qid": "Q11587934", "kind": "kami"}
+{"instruction": "What is Kamuōichihime?", "input": "", "output": "Kamuōichihime is a kami (deity) in Shinto.", "qid": "Q11588867", "kind": "kami"}
+{"instruction": "Who are the parents of Kamuōichihime in Japanese mythology?", "input": "", "output": "Ōyamatsumi", "qid": "Q11588867", "kind": "kami"}
+{"instruction": "Who are the children of Kamuōichihime in Japanese mythology?", "input": "", "output": "Ukanomitama", "qid": "Q11588867", "kind": "kami"}
+{"instruction": "What is Magatsuhinokami?", "input": "", "output": "Magatsuhinokami is a kami (deity) in Shinto.", "qid": "Q11591203", "kind": "kami"}
+{"instruction": "Who are the parents of Magatsuhinokami in Japanese mythology?", "input": "", "output": "Izanagi", "qid": "Q11591203", "kind": "kami"}
+{"instruction": "What is Kikurihime?", "input": "", "output": "Kikurihime is a kami (deity) in Shinto.", "qid": "Q11619891", "kind": "kami"}
+{"instruction": "What is Kamo Taketsunomi?", "input": "", "output": "Kamo Taketsunomi is a kami (deity) in Shinto.", "qid": "Q11634939", "kind": "kami"}
+{"instruction": "Who are the parents of Kamo Taketsunomi in Japanese mythology?", "input": "", "output": "Futodama", "qid": "Q11634939", "kind": "kami"}
+{"instruction": "Who are the children of Kamo Taketsunomi in Japanese mythology?", "input": "", "output": "Tamayorihiko no Mikoto, Tamakushihime", "qid": "Q11634939", "kind": "kami"}
+{"instruction": "What is Kamo Wake-ikazuchi?", "input": "", "output": "Kamo Wake-ikazuchi is a kami (deity) in Shinto.", "qid": "Q11634943", "kind": "kami"}
+{"instruction": "Who are the parents of Kamo Wake-ikazuchi in Japanese mythology?", "input": "", "output": "Tamakushihime, Yakusanoikazuchi", "qid": "Q11634943", "kind": "kami"}
+{"instruction": "What is Ahashima?", "input": "", "output": "Ahashima is a kami (deity) in Shinto.", "qid": "Q13275856", "kind": "kami"}
+{"instruction": "Who are the parents of Ahashima in Japanese mythology?", "input": "", "output": "Izanami, Izanagi", "qid": "Q13275856", "kind": "kami"}
+{"instruction": "What is Isetsuhiko?", "input": "", "output": "Isetsuhiko is a kami (deity) in Shinto.", "qid": "Q17193127", "kind": "kami"}
+{"instruction": "Who are the parents of Isetsuhiko in Japanese mythology?", "input": "", "output": "Takamimusubi", "qid": "Q17193127", "kind": "kami"}
+{"instruction": "What is Tsunuga Arashito?", "input": "", "output": "Tsunuga Arashito is a kami (deity) in Shinto.", "qid": "Q17216052", "kind": "kami"}
+{"instruction": "What is Himegami?", "input": "", "output": "Himegami is a kami (deity) in Shinto.", "qid": "Q22070227", "kind": "kami"}
+{"instruction": "Who are the children of Himegami in Japanese mythology?", "input": "", "output": "Ame-no-Oshikumone", "qid": "Q22070227", "kind": "kami"}
+{"instruction": "What is Munasukihime?", "input": "", "output": "Munasukihime is a kami (deity) in Shinto.", "qid": "Q24863211", "kind": "kami"}
+{"instruction": "What is Ōmiyanome?", "input": "", "output": "Ōmiyanome is a kami (deity) in Shinto.", "qid": "Q24865597", "kind": "kami"}
+{"instruction": "Who are the parents of Ōmiyanome in Japanese mythology?", "input": "", "output": "Futodama", "qid": "Q24865597", "kind": "kami"}
+{"instruction": "What is Ihika?", "input": "", "output": "Ihika is a kami (deity) in Shinto.", "qid": "Q24866003", "kind": "kami"}
+{"instruction": "What is Iwaoshiwaku no Ko?", "input": "", "output": "Iwaoshiwaku no Ko is a kami (deity) in Shinto.", "qid": "Q24866029", "kind": "kami"}
+{"instruction": "What is Chimata-no-Kami?", "input": "", "output": "Chimata-no-Kami is a kami (deity) in Shinto.", "qid": "Q24887893", "kind": "kami"}
+{"instruction": "What is Ame no Tomi?", "input": "", "output": "Ame no Tomi is a kami (deity) in Shinto.", "qid": "Q24899653", "kind": "kami"}
+{"instruction": "Who are the parents of Ame no Tomi in Japanese mythology?", "input": "", "output": "Ame no Kushimimi", "qid": "Q24899653", "kind": "kami"}
+{"instruction": "What is Kamuyatate hime no mikoto?", "input": "", "output": "Kamuyatate hime no mikoto is a kami (deity) in Shinto.", "qid": "Q30935372", "kind": "kami"}
+{"instruction": "Who are the children of Kamuyatate hime no mikoto in Japanese mythology?", "input": "", "output": "Kotoshironushi", "qid": "Q30935372", "kind": "kami"}
+{"instruction": "What is Chikatō-no-Kami?", "input": "", "output": "Chikatō-no-Kami is a kami (deity) in Shinto.", "qid": "Q38276367", "kind": "kami"}
+{"instruction": "What is Moritaku-no-Kami?", "input": "", "output": "Moritaku-no-Kami is a kami (deity) in Shinto.", "qid": "Q38276368", "kind": "kami"}
+{"instruction": "What is Sashikuni Wakahime?", "input": "", "output": "Sashikuni Wakahime is a kami (deity) in Shinto.", "qid": "Q38276815", "kind": "kami"}
+{"instruction": "Who are the parents of Sashikuni Wakahime in Japanese mythology?", "input": "", "output": "Sashikuni Ōkami", "qid": "Q38276815", "kind": "kami"}
+{"instruction": "Who are the children of Sashikuni Wakahime in Japanese mythology?", "input": "", "output": "Ōkuninushi", "qid": "Q38276815", "kind": "kami"}
+{"instruction": "What is Ame no Fuyu Kinu no kami?", "input": "", "output": "Ame no Fuyu Kinu no kami is a kami (deity) in Shinto.", "qid": "Q48744862", "kind": "kami"}
+{"instruction": "Who are the parents of Ame no Fuyu Kinu no kami in Japanese mythology?", "input": "", "output": "Futemimi, Omizunu", "qid": "Q48744862", "kind": "kami"}
+{"instruction": "Who are the children of Ame no Fuyu Kinu no kami in Japanese mythology?", "input": "", "output": "Eighty Gods, Ōkuninushi", "qid": "Q48744862", "kind": "kami"}
+{"instruction": "What is Omizunu?", "input": "", "output": "Omizunu is a kami (deity) in Shinto.", "qid": "Q48745416", "kind": "kami"}
+{"instruction": "Who are the parents of Omizunu in Japanese mythology?", "input": "", "output": "Ame-no-Tsudoechine, Fukabuchi-no-Mizuyarehana", "qid": "Q48745416", "kind": "kami"}
+{"instruction": "Who are the children of Omizunu in Japanese mythology?", "input": "", "output": "Ame no Fuyu Kinu no kami", "qid": "Q48745416", "kind": "kami"}
+{"instruction": "What is Sashikuni Ōkami?", "input": "", "output": "Sashikuni Ōkami is a kami (deity) in Shinto.", "qid": "Q48745417", "kind": "kami"}
+{"instruction": "Who are the children of Sashikuni Ōkami in Japanese mythology?", "input": "", "output": "Sashikuni Wakahime", "qid": "Q48745417", "kind": "kami"}
+{"instruction": "What is Konohanachiruhime?", "input": "", "output": "Konohanachiruhime is a kami (deity) in Shinto.", "qid": "Q48745675", "kind": "kami"}
+{"instruction": "Who are the parents of Konohanachiruhime in Japanese mythology?", "input": "", "output": "Ōyamatsumi", "qid": "Q48745675", "kind": "kami"}
+{"instruction": "Who are the children of Konohanachiruhime in Japanese mythology?", "input": "", "output": "Fuha-no-Mojikunusunu", "qid": "Q48745675", "kind": "kami"}
+{"instruction": "What is Izuhayao-no-Mikoto?", "input": "", "output": "Izuhayao-no-Mikoto is a kami (deity) in Shinto.", "qid": "Q48749523", "kind": "kami"}
+{"instruction": "Who are the parents of Izuhayao-no-Mikoto in Japanese mythology?", "input": "", "output": "Takeminakata", "qid": "Q48749523", "kind": "kami"}
+{"instruction": "Who are the children of Izuhayao-no-Mikoto in Japanese mythology?", "input": "", "output": "Kamoha no Kami, Aizu-hime-no-Kami, Yatsuagata Sukune, Itsuhayahime-no-Mikoto", "qid": "Q48749523", "kind": "kami"}
+{"instruction": "What is Tanabatabime-no-Mikoto?", "input": "", "output": "Tanabatabime-no-Mikoto is a kami (deity) in Shinto.", "qid": "Q48750893", "kind": "kami"}
+{"instruction": "What is Itsuhayahime-no-Mikoto?", "input": "", "output": "Itsuhayahime-no-Mikoto is a kami (deity) in Shinto.", "qid": "Q48753263", "kind": "kami"}
+{"instruction": "What is Kuninotoshimi-no-Kami?", "input": "", "output": "Kuninotoshimi-no-Kami is a kami (deity) in Shinto.", "qid": "Q48759713", "kind": "kami"}
+{"instruction": "Who are the parents of Kuninotoshimi-no-Kami in Japanese mythology?", "input": "", "output": "Hinateri-Nukada-Bichio-Ikochini-no-Kami, Torinarumi no kami", "qid": "Q48759713", "kind": "kami"}
+{"instruction": "Who are the children of Kuninotoshimi-no-Kami in Japanese mythology?", "input": "", "output": "Hayamike-no-Takekasayanosunumi-no-Kami", "qid": "Q48759713", "kind": "kami"}
+{"instruction": "What is Totori no kami?", "input": "", "output": "Totori no kami is a kami (deity) in Shinto.", "qid": "Q48760952", "kind": "kami"}
+{"instruction": "Who are the parents of Totori no kami in Japanese mythology?", "input": "", "output": "Yashimamuji", "qid": "Q48760952", "kind": "kami"}
+{"instruction": "Who are the children of Totori no kami in Japanese mythology?", "input": "", "output": "Torinarumi no kami", "qid": "Q48760952", "kind": "kami"}
+{"instruction": "What is Torinarumi no kami?", "input": "", "output": "Torinarumi no kami is a kami (deity) in Shinto.", "qid": "Q55522639", "kind": "kami"}
+{"instruction": "Who are the parents of Torinarumi no kami in Japanese mythology?", "input": "", "output": "Totori no kami, Ōkuninushi", "qid": "Q55522639", "kind": "kami"}
+{"instruction": "Who are the children of Torinarumi no kami in Japanese mythology?", "input": "", "output": "Kuninotoshimi-no-Kami", "qid": "Q55522639", "kind": "kami"}
+{"instruction": "What is Yashimajinumi no kami?", "input": "", "output": "Yashimajinumi no kami is a kami (deity) in Shinto.", "qid": "Q55522907", "kind": "kami"}
+{"instruction": "Who are the parents of Yashimajinumi no kami in Japanese mythology?", "input": "", "output": "Kushinadahime, Susanoo", "qid": "Q55522907", "kind": "kami"}
+{"instruction": "Who are the children of Yashimajinumi no kami in Japanese mythology?", "input": "", "output": "Fuha-no-Mojikunusunu", "qid": "Q55522907", "kind": "kami"}
+{"instruction": "What is Totsuyami-Sakitara-no-Kami?", "input": "", "output": "Totsuyami-Sakitara-no-Kami is a kami (deity) in Shinto.", "qid": "Q55523289", "kind": "kami"}
+{"instruction": "Who are the parents of Totsuyami-Sakitara-no-Kami in Japanese mythology?", "input": "", "output": "Totsumatone-no-Kami, Ame-no-Hibaraooshinadomi-no-Kami", "qid": "Q55523289", "kind": "kami"}
+{"instruction": "What is Niemotsu no Ko?", "input": "", "output": "Niemotsu no Ko is a kami (deity) in Shinto.", "qid": "Q55532732", "kind": "kami"}
+{"instruction": "What is Ame-no-Tsudoechine?", "input": "", "output": "Ame-no-Tsudoechine is a kami (deity) in Shinto.", "qid": "Q55533659", "kind": "kami"}
+{"instruction": "Who are the children of Ame-no-Tsudoechine in Japanese mythology?", "input": "", "output": "Omizunu", "qid": "Q55533659", "kind": "kami"}
+{"instruction": "What is Ashinataka-no-Kami?", "input": "", "output": "Ashinataka-no-Kami is a kami (deity) in Shinto.", "qid": "Q55533749", "kind": "kami"}
+{"instruction": "Who are the children of Ashinataka-no-Kami in Japanese mythology?", "input": "", "output": "Hayamike-no-Takekasayanosunumi-no-Kami", "qid": "Q55533749", "kind": "kami"}
+{"instruction": "What is Yatsuagata Sukune?", "input": "", "output": "Yatsuagata Sukune is a kami (deity) in Shinto.", "qid": "Q56347860", "kind": "kami"}
+{"instruction": "What is Tamaru-hime?", "input": "", "output": "Tamaru-hime is a kami (deity) in Shinto.", "qid": "Q56347882", "kind": "kami"}
+{"instruction": "What is Aizu-hime-no-Kami?", "input": "", "output": "Aizu-hime-no-Kami is a kami (deity) in Shinto.", "qid": "Q56350355", "kind": "kami"}
+{"instruction": "What is Honoakari?", "input": "", "output": "Honoakari is a kami (deity) in Shinto.", "qid": "Q60673696", "kind": "kami"}
+{"instruction": "Who are the parents of Honoakari in Japanese mythology?", "input": "", "output": "Konohanasakuyahime, Ninigi, Ōkuninushi", "qid": "Q60673696", "kind": "kami"}
+{"instruction": "Who are the children of Honoakari in Japanese mythology?", "input": "", "output": "Ame-no-Kaguyama", "qid": "Q60673696", "kind": "kami"}
+{"instruction": "What is Katakurabe no Mikoto?", "input": "", "output": "Katakurabe no Mikoto is a kami (deity) in Shinto.", "qid": "Q60995918", "kind": "kami"}
+{"instruction": "What is Ame-no-Hibaraooshinadomi-no-Kami?", "input": "", "output": "Ame-no-Hibaraooshinadomi-no-Kami is a kami (deity) in Shinto.", "qid": "Q60996386", "kind": "kami"}
+{"instruction": "Who are the parents of Ame-no-Hibaraooshinadomi-no-Kami in Japanese mythology?", "input": "", "output": "Wakatsukushime-no-Kami, Nunobutomi-Torinarumi-no-Kami", "qid": "Q60996386", "kind": "kami"}
+{"instruction": "Who are the children of Ame-no-Hibaraooshinadomi-no-Kami in Japanese mythology?", "input": "", "output": "Totsuyami-Sakitara-no-Kami", "qid": "Q60996386", "kind": "kami"}
+{"instruction": "What is Eighty Gods?", "input": "", "output": "Eighty Gods is a kami (deity) in Shinto.", "qid": "Q65249011", "kind": "kami"}
+{"instruction": "Who are the parents of Eighty Gods in Japanese mythology?", "input": "", "output": "Ame no Fuyu Kinu no kami", "qid": "Q65249011", "kind": "kami"}
+{"instruction": "What is Yashimamuji?", "input": "", "output": "Yashimamuji is a kami (deity) in Shinto.", "qid": "Q65249018", "kind": "kami"}
+{"instruction": "Who are the children of Yashimamuji in Japanese mythology?", "input": "", "output": "Totori no kami", "qid": "Q65249018", "kind": "kami"}
+{"instruction": "What is Yachinomi-no-Mikoto?", "input": "", "output": "Yachinomi-no-Mikoto is a kami (deity) in Shinto.", "qid": "Q65249081", "kind": "kami"}
+{"instruction": "What is Futemimi?", "input": "", "output": "Futemimi is a kami (deity) in Shinto.", "qid": "Q65266228", "kind": "kami"}
+{"instruction": "Who are the parents of Futemimi in Japanese mythology?", "input": "", "output": "Funozuno", "qid": "Q65266228", "kind": "kami"}
+{"instruction": "Who are the children of Futemimi in Japanese mythology?", "input": "", "output": "Ame no Fuyu Kinu no kami", "qid": "Q65266228", "kind": "kami"}
+{"instruction": "What is Funozuno?", "input": "", "output": "Funozuno is a kami (deity) in Shinto.", "qid": "Q65266238", "kind": "kami"}
+{"instruction": "Who are the children of Funozuno in Japanese mythology?", "input": "", "output": "Futemimi", "qid": "Q65266238", "kind": "kami"}
+{"instruction": "What is Fuha-no-Mojikunusunu?", "input": "", "output": "Fuha-no-Mojikunusunu is a kami (deity) in Shinto.", "qid": "Q65266248", "kind": "kami"}
+{"instruction": "Who are the parents of Fuha-no-Mojikunusunu in Japanese mythology?", "input": "", "output": "Yashimajinumi no kami, Konohanachiruhime", "qid": "Q65266248", "kind": "kami"}
+{"instruction": "Who are the children of Fuha-no-Mojikunusunu in Japanese mythology?", "input": "", "output": "Fukabuchi-no-Mizuyarehana", "qid": "Q65266248", "kind": "kami"}
+{"instruction": "What is Hinateri-Nukada-Bichio-Ikochini-no-Kami?", "input": "", "output": "Hinateri-Nukada-Bichio-Ikochini-no-Kami is a kami (deity) in Shinto.", "qid": "Q65269923", "kind": "kami"}
+{"instruction": "Who are the children of Hinateri-Nukada-Bichio-Ikochini-no-Kami in Japanese mythology?", "input": "", "output": "Kuninotoshimi-no-Kami", "qid": "Q65269923", "kind": "kami"}
+{"instruction": "What is Ame no Uzume?", "input": "", "output": "Ame no Uzume is a kami (deity) in Shinto.", "qid": "Q462803", "kind": "kami"}
+{"instruction": "Who are the parents of Ame no Uzume in Japanese mythology?", "input": "", "output": "Futodama, Ame no Hiratome", "qid": "Q462803", "kind": "kami"}
+{"instruction": "What is Kuni-no-Tokotachi?", "input": "", "output": "Kuni-no-Tokotachi is a kami (deity) in Shinto.", "qid": "Q478504", "kind": "kami"}
+{"instruction": "What is Kushinadahime?", "input": "", "output": "Kushinadahime is a kami (deity) in Shinto.", "qid": "Q505469", "kind": "kami"}
+{"instruction": "Who are the parents of Kushinadahime in Japanese mythology?", "input": "", "output": "Ashinazuchi, Tenazuchi", "qid": "Q505469", "kind": "kami"}
+{"instruction": "Who are the children of Kushinadahime in Japanese mythology?", "input": "", "output": "Yashimajinumi no kami, Ōkuninushi", "qid": "Q505469", "kind": "kami"}
+{"instruction": "What is Omoikane?", "input": "", "output": "Omoikane is a kami (deity) in Shinto.", "qid": "Q586088", "kind": "kami"}
+{"instruction": "Who are the parents of Omoikane in Japanese mythology?", "input": "", "output": "Takamimusubi", "qid": "Q586088", "kind": "kami"}
+{"instruction": "Who are the children of Omoikane in Japanese mythology?", "input": "", "output": "Uwaharu and Shitaharu, Ame no Tajikarao", "qid": "Q586088", "kind": "kami"}
+{"instruction": "What is Ashinazuchi and Tenazuchi?", "input": "", "output": "Ashinazuchi and Tenazuchi is a kami (deity) in Shinto.", "qid": "Q643763", "kind": "kami"}
+{"instruction": "What is Kuraokami?", "input": "", "output": "Kuraokami is a kami (deity) in Shinto.", "qid": "Q644201", "kind": "kami"}
+{"instruction": "Who are the parents of Kuraokami in Japanese mythology?", "input": "", "output": "Kagu-tsuchi", "qid": "Q644201", "kind": "kami"}
+{"instruction": "What is Izanami?", "input": "", "output": "Izanami is a kami (deity) in Shinto.", "qid": "Q682306", "kind": "kami"}
+{"instruction": "Who are the parents of Izanami in Japanese mythology?", "input": "", "output": "Omodaru, Ayakashikone", "qid": "Q682306", "kind": "kami"}
+{"instruction": "Who are the children of Izanami in Japanese mythology?", "input": "", "output": "Ahashima, Katakurokushin, Hayaakitsuhiko and Hayaakitsuhime, Oogotooshionokami, Kukunochi, Tori no Iwakusufune no Kami, Kaya no hime, Ōgetsuhime, Watatsumi, Shinatsuhiko, Kagu-tsuchi, Susanoo, Hiruko, Tsukuyomi, Amaterasu, Ōyamatsumi", "qid": "Q682306", "kind": "kami"}
+{"instruction": "What is Amenohiboko?", "input": "", "output": "Amenohiboko is a kami (deity) in Shinto.", "qid": "Q713100", "kind": "kami"}
+{"instruction": "What is Inari?", "input": "", "output": "Inari is a kami (deity) in Shinto.", "qid": "Q719665", "kind": "kami"}
+{"instruction": "What is Yatagarasu?", "input": "", "output": "Yatagarasu is a kami (deity) in Shinto.", "qid": "Q745463", "kind": "kami"}
+{"instruction": "What is Kotoamatsukami?", "input": "", "output": "Kotoamatsukami is a kami (deity) in Shinto.", "qid": "Q776371", "kind": "kami"}
+{"instruction": "What is Izanagi?", "input": "", "output": "Izanagi is a kami (deity) in Shinto.", "qid": "Q813858", "kind": "kami"}
+{"instruction": "Who are the parents of Izanagi in Japanese mythology?", "input": "", "output": "Omodaru, Ayakashikone", "qid": "Q813858", "kind": "kami"}
+{"instruction": "Who are the children of Izanagi in Japanese mythology?", "input": "", "output": "Ahashima, Magatsuhinokami, Naobinokami, Katakurokushin, Hayaakitsuhiko and Hayaakitsuhime, Nakisawame, Oogotooshionokami, Izunome, Kukunochi, Tori no Iwakusufune no Kami, Kaya no hime, Ōgetsuhime, Watatsumi, Ebisu, Sumiyoshi sanjin, Shinatsuhiko, Kagu-tsuchi, Susanoo, Hiruko, Tsukuyomi, Amaterasu, Ōyamatsumi", "qid": "Q813858", "kind": "kami"}
+{"instruction": "What is the Japanese name of Izanagi?", "input": "", "output": "イザナギ", "qid": "Q813858", "kind": "kami"}
+{"instruction": "What is Ame no Tajikarao?", "input": "", "output": "Ame no Tajikarao is a kami (deity) in Shinto.", "qid": "Q849412", "kind": "kami"}
+{"instruction": "Who are the parents of Ame no Tajikarao in Japanese mythology?", "input": "", "output": "Omoikane", "qid": "Q849412", "kind": "kami"}
+{"instruction": "Who are the children of Ame no Tajikarao in Japanese mythology?", "input": "", "output": "Ame no Hiwashi", "qid": "Q849412", "kind": "kami"}
+{"instruction": "What is Ninigi?", "input": "", "output": "Ninigi is a kami (deity) in Shinto.", "qid": "Q1056017", "kind": "kami"}
+{"instruction": "Who are the parents of Ninigi in Japanese mythology?", "input": "", "output": "Takuhadachijihime, Ame no Oshihomimi", "qid": "Q1056017", "kind": "kami"}
+{"instruction": "Who are the children of Ninigi in Japanese mythology?", "input": "", "output": "Hosuseri, Hoderi, Hoori", "qid": "Q1056017", "kind": "kami"}
+{"instruction": "What is Shinatsuhiko?", "input": "", "output": "Shinatsuhiko is a kami (deity) in Shinto.", "qid": "Q1073925", "kind": "kami"}
+{"instruction": "Who are the parents of Shinatsuhiko in Japanese mythology?", "input": "", "output": "Izanagi, Izanami", "qid": "Q1073925", "kind": "kami"}
+{"instruction": "What is Atago Gongen?", "input": "", "output": "Atago Gongen is a kami (deity) in Shinto.", "qid": "Q1101132", "kind": "kami"}
+{"instruction": "What is Futsunushi?", "input": "", "output": "Futsunushi is a kami (deity) in Shinto.", "qid": "Q1107286", "kind": "kami"}
+{"instruction": "Who are the parents of Futsunushi in Japanese mythology?", "input": "", "output": "Iwatsutsunoo", "qid": "Q1107286", "kind": "kami"}
+{"instruction": "What is Sumiyoshi sanjin?", "input": "", "output": "Sumiyoshi sanjin is a kami (deity) in Shinto.", "qid": "Q1114013", "kind": "kami"}
+{"instruction": "Who are the parents of Sumiyoshi sanjin in Japanese mythology?", "input": "", "output": "Izanagi", "qid": "Q1114013", "kind": "kami"}
+{"instruction": "What is Ugayafukiaezu?", "input": "", "output": "Ugayafukiaezu is a kami (deity) in Shinto.", "qid": "Q1373935", "kind": "kami"}
+{"instruction": "Who are the parents of Ugayafukiaezu in Japanese mythology?", "input": "", "output": "Hoori, Toyotamahime", "qid": "Q1373935", "kind": "kami"}
+{"instruction": "Who are the children of Ugayafukiaezu in Japanese mythology?", "input": "", "output": "Inai no Mikoto, Mikeiri no Mikoto, Hiko Itsuse no Mikoto, Jimmu", "qid": "Q1373935", "kind": "kami"}
+{"instruction": "What is the Japanese name of Ugayafukiaezu?", "input": "", "output": "彦波瀲武鸕鶿草葺不合", "qid": "Q1373935", "kind": "kami"}
+{"instruction": "What is Watatsumi?", "input": "", "output": "Watatsumi is a kami (deity) in Shinto.", "qid": "Q1474187", "kind": "kami"}
+{"instruction": "Who are the parents of Watatsumi in Japanese mythology?", "input": "", "output": "Izanagi, Izanami", "qid": "Q1474187", "kind": "kami"}
+{"instruction": "Who are the children of Watatsumi in Japanese mythology?", "input": "", "output": "Furutama, Utsushihikanasaku, Yasakatome, Tamayorihime, Toyotamahime", "qid": "Q1474187", "kind": "kami"}
+{"instruction": "What is Fūjin?", "input": "", "output": "Fūjin is a kami (deity) in Shinto.", "qid": "Q1483957", "kind": "kami"}
+{"instruction": "What is Takemikazuchi?", "input": "", "output": "Takemikazuchi is a kami (deity) in Shinto.", "qid": "Q1502690", "kind": "kami"}
+{"instruction": "Who are the parents of Takemikazuchi in Japanese mythology?", "input": "", "output": "Mikahayahi-no-Mikoto, Ame-no-Ohabari, Kagu-tsuchi", "qid": "Q1502690", "kind": "kami"}
+{"instruction": "Who are the children of Takemikazuchi in Japanese mythology?", "input": "", "output": "Ame-no-Koyane", "qid": "Q1502690", "kind": "kami"}
+{"instruction": "What is the Japanese name of Takemikazuchi?", "input": "", "output": "建御雷, 武甕槌", "qid": "Q1502690", "kind": "kami"}
+{"instruction": "What is Kagu-tsuchi?", "input": "", "output": "Kagu-tsuchi is a kami (deity) in Shinto.", "qid": "Q1640658", "kind": "kami"}
+{"instruction": "Who are the parents of Kagu-tsuchi in Japanese mythology?", "input": "", "output": "Izanagi, Izanami", "qid": "Q1640658", "kind": "kami"}
+{"instruction": "Who are the children of Kagu-tsuchi in Japanese mythology?", "input": "", "output": "Mikahayahi-no-Mikoto, Kuramitsuha, Iwasaku and Nesaku, Iwatsutsunoo, Takemikazuchi, Kuraokami", "qid": "Q1640658", "kind": "kami"}
+{"instruction": "What is Ame no Naemasu no Mikoto?", "input": "", "output": "Ame no Naemasu no Mikoto is a kami (deity) in Shinto.", "qid": "Q1704940", "kind": "kami"}
+{"instruction": "What is Tenjin?", "input": "", "output": "Tenjin is a kami (deity) in Shinto.", "qid": "Q1753428", "kind": "kami"}
+{"instruction": "What is Azumi-no-isora?", "input": "", "output": "Azumi-no-isora is a kami (deity) in Shinto.", "qid": "Q1755974", "kind": "kami"}
+{"instruction": "What is Konohanasakuyahime?", "input": "", "output": "Konohanasakuyahime is a kami (deity) in Shinto.", "qid": "Q1781862", "kind": "kami"}
+{"instruction": "Who are the parents of Konohanasakuyahime in Japanese mythology?", "input": "", "output": "Kaya no hime, Ōyamatsumi", "qid": "Q1781862", "kind": "kami"}
+{"instruction": "Who are the children of Konohanasakuyahime in Japanese mythology?", "input": "", "output": "Hosuseri, Hoderi, Hoori", "qid": "Q1781862", "kind": "kami"}
+{"instruction": "What is Ukemochi?", "input": "", "output": "Ukemochi is a kami (deity) in Shinto.", "qid": "Q2280323", "kind": "kami"}
+{"instruction": "What is Ame-no-Koyane?", "input": "", "output": "Ame-no-Koyane is a kami (deity) in Shinto.", "qid": "Q2564508", "kind": "kami"}
+{"instruction": "Who are the parents of Ame-no-Koyane in Japanese mythology?", "input": "", "output": "Kushimachi no Mikoto, Takemikazuchi", "qid": "Q2564508", "kind": "kami"}
+{"instruction": "Who are the children of Ame-no-Koyane in Japanese mythology?", "input": "", "output": "Ame-no-Oshikumone, Uwaharu and Shitaharu", "qid": "Q2564508", "kind": "kami"}
+{"instruction": "What is Ame-no-Minakanushi?", "input": "", "output": "Ame-no-Minakanushi is a kami (deity) in Shinto.", "qid": "Q2842779", "kind": "kami"}
+{"instruction": "What is Kukunochi?", "input": "", "output": "Kukunochi is a kami (deity) in Shinto.", "qid": "Q10749920", "kind": "kami"}
+{"instruction": "Who are the parents of Kukunochi in Japanese mythology?", "input": "", "output": "Izanagi, Izanami", "qid": "Q10749920", "kind": "kami"}
+{"instruction": "What is Hitokotonushi?", "input": "", "output": "Hitokotonushi is a kami (deity) in Shinto.", "qid": "Q10864079", "kind": "kami"}
+{"instruction": "Who are the parents of Hitokotonushi in Japanese mythology?", "input": "", "output": "Ōkuninushi, Susanoo", "qid": "Q10864079", "kind": "kami"}
+{"instruction": "What is Isotakeru?", "input": "", "output": "Isotakeru is a kami (deity) in Shinto.", "qid": "Q10881556", "kind": "kami"}
+{"instruction": "Who are the parents of Isotakeru in Japanese mythology?", "input": "", "output": "Susanoo", "qid": "Q10881556", "kind": "kami"}
+{"instruction": "What is Izunome?", "input": "", "output": "Izunome is a kami (deity) in Shinto.", "qid": "Q10885126", "kind": "kami"}
+{"instruction": "Who are the parents of Izunome in Japanese mythology?", "input": "", "output": "Izanagi", "qid": "Q10885126", "kind": "kami"}
+{"instruction": "What is Ya kami hime?", "input": "", "output": "Ya kami hime is a kami (deity) in Shinto.", "qid": "Q10891903", "kind": "kami"}
+{"instruction": "Who are the children of Ya kami hime in Japanese mythology?", "input": "", "output": "Ki no mata no kami", "qid": "Q10891903", "kind": "kami"}
+{"instruction": "What is Yakusanoikazuchi?", "input": "", "output": "Yakusanoikazuchi is a kami (deity) in Shinto.", "qid": "Q10892534", "kind": "kami"}
+{"instruction": "Who are the children of Yakusanoikazuchi in Japanese mythology?", "input": "", "output": "Kamo Wake-ikazuchi", "qid": "Q10892534", "kind": "kami"}
+{"instruction": "What is Wakumusubi?", "input": "", "output": "Wakumusubi is a kami (deity) in Shinto.", "qid": "Q10921330", "kind": "kami"}
+{"instruction": "Who are the children of Wakumusubi in Japanese mythology?", "input": "", "output": "Toyōke Ōmikami", "qid": "Q10921330", "kind": "kami"}
+{"instruction": "What is Nai no Kami?", "input": "", "output": "Nai no Kami is a kami (deity) in Shinto.", "qid": "Q10928456", "kind": "kami"}
+{"instruction": "What is Engishiki?", "input": "", "output": "Japanese book about laws and customs", "qid": "Q1342448", "kind": "seed"}
+{"instruction": "Who wrote Engishiki?", "input": "", "output": "Fujiwara no Tadahira, Fujiwara no Tokihira", "qid": "Q1342448", "kind": "seed"}
+{"instruction": "What is kami?", "input": "", "output": "divine being in Shinto", "qid": "Q524158", "kind": "seed"}
+{"instruction": "What is Ranelagh?", "input": "", "output": "Wikimedia disambiguation page", "qid": "Q533996", "kind": "seed"}
+{"instruction": "What is H-Bahn?", "input": "", "output": "Suspended, driverless passenger railway system developed in Germany", "qid": "Q695225", "kind": "seed"}
+{"instruction": "What is Shinto shrine?", "input": "", "output": "Japanese shrine of the Shinto religion", "qid": "Q845945", "kind": "seed"}
+{"instruction": "What is Chugwater?", "input": "", "output": "town in Platte County, Wyoming, United States", "qid": "Q1011402", "kind": "seed"}

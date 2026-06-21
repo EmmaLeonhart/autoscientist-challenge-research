@@ -10,9 +10,9 @@ See `CLAUDE.md` § "Workflow Rules" and § "Research workflow".
 
 ## Active — Build phase (All Other Domains: Shinto shrines)
 
-**Locked:** All Other Domains / Shinto shrines, **Wikidata-only (CC0)**. Data scoped (~25.8k EN-labelled shrines). Pipeline foundation built + tested (`src/extract_shrines.py`, `make_qa_pairs`; sample = 25 shrines → 117 QA pairs). See `strategy/decision.md`, `strategy/build-plan.md`, `data_lake/wikidata/data-assets.md`.
+**Locked:** All Other Domains / **broad Shinto** (shrines + kami + texts/concepts), **Wikidata-only (CC0)**, self-contained. Pipeline built + tested across 3 kinds (`src/extract_shinto.py`, `make_qa_pairs`; sample = 206 entities → 684 QA pairs). See `strategy/decision.md`, `strategy/build-plan.md`, `data_lake/wikidata/data-assets.md`.
 
-1. **Scale + enrich the dataset.** Run `scripts/run.py --full` to paginate all shrines; add more fact types to `make_qa_pairs` (official name P1448, kana P1814, part-of/Engishiki P361, reverse/aggregate questions e.g. "shrines that enshrine {kami}", "shrines in {prefecture}"). Add tests for the new pair types.
+1. **Scale + enrich the dataset.** Run `scripts/run.py --full` to paginate shrines (~25k) + kami (~352). Add more entity kinds/fact types: shrine official name P1448, kana P1814, part-of/Engishiki P361; kami domain/role + reverse enshrinement ("which shrines enshrine {kami}"); add festivals/matsuri + sects buckets. Verify each new class QID against a sample (see the Q175331→Q524158 lesson). Add tests for new pair types.
 2. **Build the eval split.** Hold out ~15% of *shrines* (not pairs) as an unseen test set; write a small scorer (exact/contains match on facts) so we can measure base-vs-finetuned lift ourselves.
 3. **Ask the gating eval questions in Discord** (#support / weekly Research Hour) — `strategy/shinto-shrines-questions.md` A.1–A.4 (how All Other Domains is judged; held-out set ownership; base models; dataset-quality scoring).
 4. **Stand up publishing + platform.** Hugging Face + Kaggle accounts; connect keys in the Adaption app (`adaptionlabs.ai/app/settings?tab=api_keys`); confirm the 1,000 challenge credits landed (the 50 are free-tier).

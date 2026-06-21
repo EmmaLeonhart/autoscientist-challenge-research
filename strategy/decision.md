@@ -1,12 +1,13 @@
 # Decision — locked category
 
 **Category:** All Other Domains (Part 2)
-**Topic:** **Shinto shrines** (Japanese shrine knowledge — drawn from owned Wikidata / wiki / Engishiki / Kokugakuin shrine corpora)
+**Topic:** **Shinto** (broad) — kami/deities, shrines, texts (Kojiki, Nihon Shoki, Engishiki), festivals, sects, concepts. Not limited to shrines.
+**Data:** **Wikidata-only (CC0)**, built **self-contained** here (reusing latent-space-cartography's seed-and-traverse pattern; not depending on Loka / latent-space-cartography).
 **Locked:** 2026-06-20 by the user.
 
 ## Why
-- **All Other Domains** is the Part 2 catch-all, so a niche owned dataset is allowed and is evaluated in its own track (prizes per track).
-- **Shinto shrines** is where we have an unusually deep, largely unique owned dataset: multilingual Wikidata shrine entities, Engishiki / Shikinai-ronsha records, Kokugakuin shrine database references, shrine genealogies, and shrine wiki text. A thin-to-empty competitive field plus a proprietary-grade data edge.
+- **All Other Domains** is the Part 2 catch-all, so a niche domain is allowed and is evaluated in its own track (prizes per track).
+- **Shinto** is where we have an unusually deep data edge: the maintainer's whole ecosystem (the Claw4S "Wikidata for Shinto Studies" work, latent-space-cartography, Loka) already orbits this domain. Broadening past shrines to kami + texts gives the model more "general competence" surface for the judge.
 - **Deadline:** Part 2 closes **Aug 3, 2026** (form opens Jul 6) — more runway than the Language track's Jul 5.
 
 ## Key constraints carried from the rules (`strategy/answers.md`)
