@@ -75,3 +75,7 @@ land here as queue items get deleted.
 ## 2026-06-20 — Fix unstable pagination (duplicates + gaps)
 - The resilient full run completed but the output had only 17,081 distinct shrines of 25,837 processed — OFFSET pagination without ORDER BY overlaps and skips on WDQS, producing duplicate pairs and missing entities.
 - Fix: added `ORDER BY ?e` to the shrine + kami queries (deterministic OFFSET) and a `(kind, qid)` dedup guard in `scripts/run.py` that skips/reports any overlap. Re-running the full gather.
+
+## 2026-06-20 — Honor WDQS Retry-After (finish full coverage)
+- Previous gather stopped at 15,500/25,837 shrines: WDQS returned a sustained 429 at offset 15500 that outlasted the short backoff, so continue-on-failure moved on. Data captured was clean (deduped, stable), just incomplete.
+- Fix: `_query` now honors the `Retry-After` header on 429 (waits the instructed time, up to 75s), 8 retries; `scripts/run.py` pause raised to 2.5s/page to stay under the rate limit. Re-running for full coverage.

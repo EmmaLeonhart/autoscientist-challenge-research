@@ -19,7 +19,7 @@ from src.extract_shinto import fetch, make_qa_pairs  # noqa: E402
 KINDS = [("shrine", True), ("kami", True), ("seed", False)]
 
 
-def build(out, full, page=250, cap=None, pause=1.0):
+def build(out, full, page=250, cap=None, pause=2.5):
     n_ent = n_pairs = n_dupe = 0
     by_kind = {}
     seen = set()  # (kind, qid) — guard against any pagination overlap

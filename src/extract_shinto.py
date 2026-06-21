@@ -92,9 +92,10 @@ def _split(b, k):
     return [x for x in _get(b, k).split(" | ") if x]
 
 
-def _query(q, timeout=180, retries=5):
-    """Query WDQS with backoff. WDQS throttles heavy queries with 429/502/503/504;
-    retry those with exponential backoff instead of crashing the whole run.
+def _query(q, timeout=180, retries=8):
+    """Query WDQS with backoff. WDQS throttles heavy queries with 429/502/503/504.
+    On 429 it sends a `Retry-After` (seconds) telling us how long to wait — honor it;
+    otherwise use exponential backoff. Retry rather than crashing the run.
     """
     last = None
     for attempt in range(retries):
@@ -105,13 +106,18 @@ def _query(q, timeout=180, retries=5):
                 timeout=timeout,
             )
             if r.status_code in (429, 502, 503, 504):
-                raise requests.HTTPError(f"{r.status_code} {r.reason}")
+                ra = r.headers.get("Retry-After", "")
+                wait = int(ra) if ra.isdigit() else 4 * (2 ** attempt)
+                last = requests.HTTPError(f"{r.status_code} {r.reason}")
+                if attempt < retries - 1:
+                    time.sleep(min(wait, 75))
+                continue
             r.raise_for_status()
             return r.json()["results"]["bindings"]
         except (requests.RequestException, ValueError) as e:
             last = e
             if attempt < retries - 1:
-                time.sleep(3 * (2 ** attempt))  # 3, 6, 12, 24s
+                time.sleep(4 * (2 ** attempt))
     raise last
 
 
