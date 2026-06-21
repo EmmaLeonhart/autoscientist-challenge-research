@@ -38,3 +38,9 @@ land here as queue items get deleted.
 
 ## 2026-06-20 — Report site + README reflect real findings
 - Filled in `docs/index.html` (lede, pillars, findings table, repo link) and rewrote `README.md` About/Status with the actual challenge summary and links. Kept the cleanvibe theme chrome.
+
+## 2026-06-20 — Published: public repo + live Pages report
+- Final leak scan over all git-tracked files: clean; raw email confirmed untracked.
+- Created PUBLIC repo `EmmaLeonhart/autoscientist-challenge-research` and pushed.
+- First Pages run failed (GITHUB_TOKEN can't auto-create the Pages site); enabled Pages via API (`build_type=workflow`) and re-ran → success. Report live at https://emmaleonhart.github.io/autoscientist-challenge-research/ (HTTP 200).
+- Bootstrap/understanding phase complete; queue drained. Next phase = todo.md item A (Discord rule-questions) → B (category selection).
