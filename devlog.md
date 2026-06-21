@@ -71,3 +71,7 @@ land here as queue items get deleted.
 - Switched from scheduled crons to gathering the full dataset live (cancelled the 7:31/8:10 jobs).
 - First full run hit a WDQS **502** at shrine offset 3500 and crashed (no retry) — captured ~3.5k shrines / 16.3k pairs before dying.
 - Hardened the extractor: `_query` now retries 429/502/503/504 with exponential backoff; `scripts/run.py` lightens page size to 250, throttles 1s between pages, flushes incrementally, and continues to the next kind if a page fails after retries (partial data is kept, not lost). Re-running the full gather.
+
+## 2026-06-20 — Fix unstable pagination (duplicates + gaps)
+- The resilient full run completed but the output had only 17,081 distinct shrines of 25,837 processed — OFFSET pagination without ORDER BY overlaps and skips on WDQS, producing duplicate pairs and missing entities.
+- Fix: added `ORDER BY ?e` to the shrine + kami queries (deterministic OFFSET) and a `(kind, qid)` dedup guard in `scripts/run.py` that skips/reports any overlap. Re-running the full gather.

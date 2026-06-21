@@ -20,8 +20,9 @@ KINDS = [("shrine", True), ("kami", True), ("seed", False)]
 
 
 def build(out, full, page=250, cap=None, pause=1.0):
-    n_ent = n_pairs = 0
+    n_ent = n_pairs = n_dupe = 0
     by_kind = {}
+    seen = set()  # (kind, qid) — guard against any pagination overlap
     with open(out, "w", encoding="utf-8") as f:
         for kind, paginate in KINDS:
             offset = 0
@@ -38,6 +39,11 @@ def build(out, full, page=250, cap=None, pause=1.0):
                 for rec in recs:
                     if not rec["name"]:
                         continue
+                    key = (kind, rec["qid"])
+                    if key in seen:
+                        n_dupe += 1
+                        continue
+                    seen.add(key)
                     n_ent += 1
                     by_kind[kind] = by_kind.get(kind, 0) + 1
                     for qa in make_qa_pairs(rec):
@@ -46,14 +52,14 @@ def build(out, full, page=250, cap=None, pause=1.0):
                         f.write(json.dumps(qa, ensure_ascii=False) + "\n")
                         n_pairs += 1
                 f.flush()
-                print(f"  {kind}: offset={offset} (+{len(recs)})  total_pairs={n_pairs}", flush=True)
+                print(f"  {kind}: offset={offset} (+{len(recs)})  uniq_pairs={n_pairs}  dupes_skipped={n_dupe}", flush=True)
                 if not (full and paginate):
                     break
                 offset += page
                 if cap and offset >= cap:
                     break
                 time.sleep(pause)  # be polite to WDQS
-    print(f"entities: {n_ent}  qa_pairs: {n_pairs}  by_kind={by_kind}  -> {out}")
+    print(f"entities: {n_ent}  qa_pairs: {n_pairs}  dupes_skipped={n_dupe}  by_kind={by_kind}  -> {out}")
 
 
 def main():

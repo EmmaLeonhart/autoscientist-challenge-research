@@ -49,6 +49,7 @@ WHERE {
   OPTIONAL { ?e wdt:P625 ?coord. }
 }
 GROUP BY ?e ?eLabel
+ORDER BY ?e
 LIMIT %d OFFSET %d
 """
 
@@ -64,6 +65,7 @@ WHERE {
   OPTIONAL { ?e wdt:P40 ?child.            ?child  rdfs:label ?childL.  FILTER(LANG(?childL)='en') }
 }
 GROUP BY ?e ?eLabel ?native
+ORDER BY ?e
 LIMIT %d OFFSET %d
 """
 
