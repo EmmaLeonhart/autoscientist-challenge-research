@@ -46,3 +46,6 @@ _email_body.txt
 Thumbs.db
 .env
 .env.local
+
+# transient Kaggle upload staging dir
+kaggle_upload/

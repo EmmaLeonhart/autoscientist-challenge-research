@@ -93,3 +93,8 @@ land here as queue items get deleted.
 - HF dataset is live; attempted the Kaggle mirror via `scripts/push_kaggle.py`.
 - The provided Kaggle token authenticates and can READ (datasets/list -> 200) but is rejected for WRITE (datasets/create/new -> 401 "Unauthorized access"). It is a read-only token; uploading needs a full-access API token.
 - `scripts/push_kaggle.py` is ready to run as-is once a write-capable token is in ~/.kaggle/kaggle.json. (Credentials live only in ~/.kaggle, never committed.)
+
+## 2026-06-21 — Kaggle mirror live (token was fine; wrong auth method)
+- Root cause of the earlier 401: the `KGAT_` token is a new-style **access token** (bearer), but it had been placed in `kaggle.json` as a legacy key. Kaggle accepts that for reads but not writes. Fix: put it in `~/.kaggle/access_token` (Option 3 in Kaggle's README) so it's sent as a bearer token — writes then authorize.
+- Also worked around a Kaggle SDK path bug (mangles its temp upload-info path when the staging folder has a separator) by using a single-segment `kaggle_upload/` dir (gitignored).
+- **Dataset live on Kaggle (public, CC0):** https://www.kaggle.com/datasets/emmaleonhart/shinto-wikidata-qa — both mandatory release destinations (HF + Kaggle) now satisfied.

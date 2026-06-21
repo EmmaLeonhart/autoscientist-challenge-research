@@ -25,7 +25,9 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--owner", default="emmaleonhart")
     ap.add_argument("--slug", default="shinto-wikidata-qa")
-    ap.add_argument("--updir", default="results/kaggle_upload")
+    # single-segment dir: the Kaggle SDK mangles its temp upload-info path when the
+    # folder path contains a separator, so keep this one level deep (gitignored).
+    ap.add_argument("--updir", default="kaggle_upload")
     args = ap.parse_args()
 
     os.makedirs(args.updir, exist_ok=True)
