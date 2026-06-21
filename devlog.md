@@ -32,3 +32,6 @@ land here as queue items get deleted.
 
 ## 2026-06-20 — FINDINGS.md: plain-language answer
 - Wrote `FINDINGS.md` answering the core confusion: what the email was (HubSpot onboarding, not the rulebook), how the competition works, what a submission is, where today sits in the timeline, and the key lever (per-category prizes → category selection). Listed open rule-questions to resolve.
+
+## 2026-06-20 — todo.md: strategy horizon
+- Wrote `todo.md` laying out the understand→strategize track (A resolve rule-questions, B category selection, C tooling, D build submission, E publish report).
