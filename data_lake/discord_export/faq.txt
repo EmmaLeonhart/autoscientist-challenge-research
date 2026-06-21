@@ -1,0 +1,49 @@
+﻿Discord Post
+Hey everyone 👋
+So excited to have you all here for the AutoScientist Challenge.
+Here's everything you need to get started:
+The goal: Train and release a frontier AI model in your category and help train state-of-the-art benchmarks the whole world can build on.
+This challenge runs in two parts. You can enter Part 1, Part 2, or both. Here's how it breaks down:
+Part 1 — Live now Closes July 5 | Winners announced July 13 Categories: Finance, Healthcare, Language, Legal, Marketing
+Part 2 — Opens July 6 Closes August 3 | Winners announced August 10 Categories: Science, Agriculture, Data Visualization, Math & Code, HR, All Other Domains
+Rules:
+1. Submit to one of the 10 categories across Part 1, Part 2 or both.
+2. Release your adapted dataset to Hugging Face and Kaggle
+3. Release your model weights to Hugging Face and Kaggle
+4. Show measurable improvement against the baseline on our held-out test sets
+5. Bonus: post on LinkedIn or X tagging @adaption_ai / adaption-labs with a demo
+We will go over all the rules and the guidance on the evaluations in our first office hours next week.
+What you get:
+* A shot at $4,000 first prize per category- $50K pool total
+* A shot at $1,000 second place prize per category- $50K pool total
+* 1,000 in credits for data adaptation + free compute
+* Access to the research team (that's us 👋)
+Submit here (Part 1 only): https://share.hsforms.com/2r5RTDl9lSrqTQmqhRhEsQwuc9yb 
+There is a separate submission form for each part. This form is for Part 1 only. We'll share the Part 2 form when it opens. 
+________________
+
+
+Can't wait to see what you build. Let's go 🚀
+
+
+FAQ
+We will update this FAQ Section as the challenge progresses.
+Hello everyone excited to work on the challenge and use autoscientist, just wanted to ask how many collaborators are allowed per team?
+There is not a limit on collaborators per team. There needs to be a designated team captain. If the group wins, the team captain will be sent the prize and be in charge of distribution.
+Participation & Eligibility
+1. Can I do both parts? Yes — you can enter Part 1 and Part 2 and be eligible for prizes in both. Winners for Part 1 are announced July 13, then Part 2 kicks off July 6.
+2. Can I submit to multiple tracks? Yes. Prizes are awarded per track, so each submission is evaluated independently.
+Compute & Credits
+3. I signed up but haven't received compute credits. The 50 credits in your account are from the free tier, not the challenge. Reach out in #support on Discord and the team will sort it.
+Evaluation & Scoring
+4. What's the baseline model? Your model is evaluated relative to the baseline you train on, not a fixed external model. Dataset quality and held-out test set performance both factor into scoring.
+5. Do we see the held-out test sets? No — they're internal. Language track uses LLM-as-judge win rates against a base model on unseen tasks, scored on language competence. Other tracks follow the same principle.
+6. Language track — what tasks specifically? Optimize broadly for language quality rather than a single task. The judge scores on overall competence, not a specific benchmark.
+7. Healthcare track — can we report extra metrics? Yes, and it's encouraged. Additional clinical task metrics will be looked on favorably by judges.
+Data & Licensing
+8. Is CC-BY-NC data acceptable? Yes. Any open license that permits public release and attribution works.
+Deadlines
+9. Blog says July 5, terms page says June 22 — which is right? July 5 is correct. The terms page is being updated. Blog and Discord announcements take precedence.
+
+
+Questions? Join the Discord or visit adaptionlabs.ai/blog/autoscientist-challenge

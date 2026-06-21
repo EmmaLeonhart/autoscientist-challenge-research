@@ -49,3 +49,8 @@ land here as queue items get deleted.
 - Opened the email's Discord link in the browser (HubSpot JS-gated tracking URL → resolves to the invite in a real browser; curl can't pass the bot check). Public challenge page exposes no raw discord.gg invite, so the email link is the route.
 - Wrote `strategy/playbook.md`: prioritized Discord rule-questions (4 blocking + 4 important + 1 category-specific), unblocked "do now" actions, and a category decision matrix flagging "language" as the highest-edge target with "all other domains" as a niche-dataset fallback.
 - Repopulated `queue.md` Active with the strategy steps (todo A + B).
+
+## 2026-06-20 — Ingested Discord export; rules resolved
+- User's channel export (adaption.zip) arrived early; ingested it now instead of waiting for the 5:51/6:08 crons (both cancelled as redundant).
+- Raw export (other participants' messages + avatars) extracted to gitignored `data_lake/discord_export/_raw/`. Committed only PII-free official content: `faq.txt` (official FAQ doc) + `official-rules.md` (pinned rules).
+- Wrote `strategy/answers.md` resolving all open rule-questions. Corrected `FINDINGS.md`: **Language is Part 1 (closes Jul 5)**, not Part 2; FAQ adds an HR category; baseline = the base model you train on; Language judged by LLM-as-judge on broad competence; AutoScientist (UI) runs training; CC-BY-NC data OK; unlimited team w/ captain; submit via per-part HubSpot form.

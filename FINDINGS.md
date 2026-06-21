@@ -10,13 +10,13 @@
 
 A HubSpot-sent onboarding email from `team@adaptionlabs.ai` (2026-06-17), subject *"You're In. Now share with the world."* It does three things and nothing more: (1) confirms you're competing, (2) gives you social-media cards to share, (3) lists quick reminders (prize pool, the two parts, the open-source-to-Kaggle/HF + credit-Adaptive-Data requirement, a Discord link). It is **marketing collateral, not the rulebook.** The real mechanics live on the challenge page. (Redacted copy + parsed text in `data_lake/email/`.)
 
-> ⚠️ One discrepancy to be aware of: the email's domain split doesn't perfectly match the official challenge page (e.g. the email puts "math and code" in Part 1; the official page puts it in Part 2). **Trust the challenge page and confirm in Discord.**
+> ✅ **Resolved (Discord + FAQ, 2026-06-20):** the email's category split was wrong. Per Adaption staff and the official FAQ, **"language" is a Part 1 category (closes July 5)** and "math & code" is Part 2. The FAQ also lists an **HR** category. See `strategy/answers.md`.
 
 ## How the competition actually works
 
-- **Shape:** 4 weeks = two consecutive 2-week phases. **Register once**, submit to either or both.
-  - **Part 1** — Jun 8 → **Jul 5**, winners Jul 13. Categories (per official page): Finance, healthcare, language, legal, marketing.
-  - **Part 2** — Jul 6 → Aug 3, winners Aug 10. Categories: Science, agriculture, data visualization & chart interpretation, math & code, all other domains.
+- **Shape:** two consecutive phases. **Register once**, submit to either or both. Separate submission form per part (Part 1: `share.hsforms.com/2r5RTDl9lSrqTQmqhRhEsQwuc9yb`); **you can submit multiple times**.
+  - **Part 1** — live now → **Jul 5**, winners Jul 13. Categories: Finance, Healthcare, **Language**, Legal, Marketing.
+  - **Part 2** — Jul 6 → Aug 3, winners Aug 10. Categories: Science, Agriculture, Data Visualization, Math & Code, HR, All Other Domains.
 - **A valid submission = four things:**
   1. Pick **one** of the ten categories.
   2. **Open-source** the *adapted dataset* you finetuned on **and** the *trained weights* — to **both Hugging Face and Kaggle**, crediting *Adaptive Data by Adaption*.
@@ -41,12 +41,14 @@ Part 1 is **live** and closes **Jul 5** (~2 weeks out). Part 2 runs Jul 6 – Au
 
 Because prizes are awarded **per category** (ten separate $4k firsts), you do **not** have to be the best entrant overall — only the best in **one** category. The highest-leverage decision is therefore picking a category where you have domain leverage *and* the entrant field is likely thin, rather than fighting in a crowded one. That choice, plus resolving the open rule-questions below, is the strategy work tracked in `todo.md`.
 
-## Open questions to resolve before committing (→ `todo.md`)
+## Open questions — now answered (Discord export + FAQ)
 
-1. Per category: what *is* the held-out test set, and what baseline model must you beat?
-2. Is using AutoScientist / Adaptive Data **required** or just encouraged?
-3. Dataset/weights licensing + eligibility fine print.
-4. Confirm which phase each target category is actually in (email vs. page mismatch).
-5. How to claim the credits + free compute, and any compute caps.
+These were resolved on 2026-06-20 from the channel export + official FAQ. Full detail in **`strategy/answers.md`**; highlights:
 
-*Sources for every claim above: `literature/REVIEW.md` (S1–S5).*
+1. **Baseline = the base model you train on** (not a fixed external model); both dataset quality and held-out performance score. Test sets are **internal/unseen**. **Language track = LLM-as-judge win rates on broad language competence.**
+2. **AutoScientist is the intended tool** — the GPU training loop runs on their platform (UI only for now); the credits are for it.
+3. **Licensing:** any open license permitting public release + attribution (CC-BY-NC OK). **Teams:** unlimited collaborators, one captain holds the prize.
+4. **Phase mapping resolved:** Language = **Part 1 (closes Jul 5)**; math & code = Part 2; FAQ adds an HR category.
+5. **Credits:** 1,000 challenge credits (the 50 in-account are free-tier); DM @ross.adaption / #support if missing. Submit via the per-part HubSpot form; multiple submissions allowed.
+
+*Sources: `strategy/answers.md`, `data_lake/discord_export/` (faq.txt + official-rules.md), `literature/REVIEW.md`.*

@@ -28,6 +28,15 @@ env/
 # The redacted .eml and parsed.md in data_lake/email/ ARE committed.
 data_lake/email/_raw/
 
+# Raw Discord channel export — contains other participants' handles/messages and
+# avatar media. NEVER publish. Only the synthesized analysis + the public FAQ
+# (data_lake/discord_export/faq.txt) and official-rules extract are committed.
+data_lake/discord_export/_raw/
+# transient working files
+_discord_analysis.txt
+_faq.txt
+_email_body.txt
+
 # IDE / OS / env
 .vscode/
 .idea/

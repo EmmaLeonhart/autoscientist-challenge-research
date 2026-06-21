@@ -10,11 +10,12 @@ See `CLAUDE.md` § "Workflow Rules" and § "Research workflow".
 
 ## Active — Strategy phase (todo A + B)
 
-1. **Resolve blocking rule-questions in Discord.** Post `strategy/playbook.md` §1 blocking questions (held-out test set + baseline; required tooling; base-model constraints; submission mechanism). Record answers → `strategy/answers.md`; update `FINDINGS.md` where they change the picture. *(User action in Discord; agent drafts/records.)*
-2. **Stand up publishing accounts.** Confirm/create Hugging Face org + Kaggle account (both mandatory release destinations). Note handles in `strategy/playbook.md` §2.
-3. **Draft the data-asset inventory** to firm up the §3 category matrix (what datasets/corpora we already own that map to a category).
-4. **Lock the target category** once Q1/Q2/Q9 are answered (working rec: "language", fallback "all other domains").
-5. **Decompose the build** for the chosen category into a fresh queue (dataset → finetune/beat baseline → dual HF+Kaggle release → demo/social).
+Rule-questions are **resolved** from the Discord export + FAQ — see `strategy/answers.md`. Key: **Language is Part 1, closes Jul 5**; baseline = the base model you train on; Language judged by LLM-as-judge on broad language competence; AutoScientist (UI) runs the training; submit via per-part HubSpot form; CC-BY-NC data OK; unlimited team w/ a captain.
+
+1. **Lock the target category.** Working rec: **Language** (Part 1, highest owned-data edge, but tight Jul 5 deadline); fallbacks: "all other domains" (Part 2, niche owned dataset) or Healthcare (rewards extra metrics). *A 6:10pm cron asks the user to pick if not already locked.*
+2. **Stand up publishing accounts + platform.** Hugging Face + Kaggle (both mandatory release destinations) and the Adaption app (connect HF/Kaggle keys at `adaptionlabs.ai/app/settings?tab=api_keys`); confirm the 1,000 challenge credits landed.
+3. **Draft the data-asset inventory** mapping owned corpora (lexemes, multilingual Wikidata, Aelaki, Japanese text, genealogy) to the chosen category's objective.
+4. **Decompose the build** for the locked category into a fresh queue (adapt dataset → AutoScientist train to beat baseline → dual HF+Kaggle release crediting Adaptive Data → submit form → demo/social).
 
 ---
 
