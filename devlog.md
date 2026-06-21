@@ -83,3 +83,8 @@ land here as queue items get deleted.
 ## 2026-06-20 — Full Shinto dataset gathered (clean, complete)
 - Re-gather succeeded with full coverage: **26,193 distinct entities (25,837 shrines + 350 kami + 6 texts) → 104,087 QA pairs**, deduped, CC0. No rate-limit drop (Retry-After handling held).
 - Committed a 187-line representative sample + `dataset_stats.json`; full 104k-pair file stays in gitignored `results/`. Updated `data_lake/wikidata/data-assets.md` and `queue.md`.
+
+## 2026-06-21 — Eval split + scorer; dataset published to Hugging Face
+- `src/dataset.py`: by-entity train/test split (no leakage) + transparent fact-match scorer (`score_pair`/`evaluate`); `scripts/make_splits.py`; tests (10 passing total).
+- Splits: train 88,712 pairs / 22,319 entities; test 15,375 pairs / 3,872 entities; entity leakage 0.
+- **Published to Hugging Face (public, CC0):** https://huggingface.co/datasets/EmmaLeonhart/shinto-wikidata-qa — train/test/sample/stats + dataset card crediting Adaptive Data by Adaption. `scripts/push_hf.py` for reproducibility.
