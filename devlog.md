@@ -79,3 +79,7 @@ land here as queue items get deleted.
 ## 2026-06-20 — Honor WDQS Retry-After (finish full coverage)
 - Previous gather stopped at 15,500/25,837 shrines: WDQS returned a sustained 429 at offset 15500 that outlasted the short backoff, so continue-on-failure moved on. Data captured was clean (deduped, stable), just incomplete.
 - Fix: `_query` now honors the `Retry-After` header on 429 (waits the instructed time, up to 75s), 8 retries; `scripts/run.py` pause raised to 2.5s/page to stay under the rate limit. Re-running for full coverage.
+
+## 2026-06-20 — Full Shinto dataset gathered (clean, complete)
+- Re-gather succeeded with full coverage: **26,193 distinct entities (25,837 shrines + 350 kami + 6 texts) → 104,087 QA pairs**, deduped, CC0. No rate-limit drop (Retry-After handling held).
+- Committed a 187-line representative sample + `dataset_stats.json`; full 104k-pair file stays in gitignored `results/`. Updated `data_lake/wikidata/data-assets.md` and `queue.md`.

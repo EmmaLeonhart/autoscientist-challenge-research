@@ -44,3 +44,13 @@ covers three entity kinds with type-aware questions:
 > "demonstration/protest"** (it pulled in "1989 Tiananmen Square protests"). Corrected to
 > **Q524158 ("kami — divine being in Shinto")**. Lesson: verify class QIDs against a sample,
 > since the dataset's quality is itself scored by the challenge.
+
+## Full dataset built (2026-06-20)
+A complete extraction now exists (`results/shinto_qa.full.jsonl`, gitignored — large):
+- **26,193 distinct entities** — 25,837 shrines (the full EN-labelled set), 350 kami, 6 seed texts.
+- **104,087 instruction/QA pairs**, deduped (`(kind,qid)` guard), CC0.
+- A 187-line representative `shinto_qa.sample.jsonl` and `dataset_stats.json` are committed.
+
+Two robustness lessons baked into `src/extract_shinto.py` / `scripts/run.py`:
+1. **Stable pagination** — `OFFSET` without `ORDER BY` overlaps/skips on WDQS; add `ORDER BY ?e`.
+2. **Rate limits** — WDQS 429s on heavy queries; honor the `Retry-After` header + throttle paging.

@@ -1,0 +1,12 @@
+{
+  "total_pairs": 104087,
+  "distinct_entities": 26193,
+  "pairs_by_kind": {
+    "shrine": 103468,
+    "kami": 612,
+    "seed": 7
+  },
+  "license": "CC0 (Wikidata)",
+  "source": "Wikidata Query Service",
+  "generated": "2026-06-20"
+}
