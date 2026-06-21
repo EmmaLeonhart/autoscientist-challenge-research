@@ -24,6 +24,10 @@ build/
 venv/
 env/
 
+# Raw source email with live HubSpot tracking / unsubscribe tokens — never publish.
+# The redacted .eml and parsed.md in data_lake/email/ ARE committed.
+data_lake/email/_raw/
+
 # IDE / OS / env
 .vscode/
 .idea/

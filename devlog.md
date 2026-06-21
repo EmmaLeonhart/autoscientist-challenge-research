@@ -20,3 +20,8 @@ See `CLAUDE.md` § "Workflow Rules" and `queue.md`'s preamble.
 
 Scaffolded with `cleanvibe new` (cleanvibe v1.13.1). Future entries
 land here as queue items get deleted.
+
+## 2026-06-20 — Ingested source email into data lake (redacted)
+- Moved the AutoScientist Challenge welcome email (`team@adaptionlabs.ai`, 2026-06-17) into `data_lake/email/`.
+- Raw original with live HubSpot tracking + unsubscribe tokens kept locally at `data_lake/email/_raw/` (gitignored, never published).
+- Committed a redacted `.eml` (QP soft-breaks joined so every tracking URL/token is scrubbed → `[REDACTED-TRACKING-URL]` / `[REDACTED-TOKEN]`) and a clean `autoscientist-welcome.parsed.md` extraction. Verified 0 live tokens in committed files.
