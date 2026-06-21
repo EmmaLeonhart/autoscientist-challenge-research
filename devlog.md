@@ -25,3 +25,7 @@ land here as queue items get deleted.
 - Moved the AutoScientist Challenge welcome email (`team@adaptionlabs.ai`, 2026-06-17) into `data_lake/email/`.
 - Raw original with live HubSpot tracking + unsubscribe tokens kept locally at `data_lake/email/_raw/` (gitignored, never published).
 - Committed a redacted `.eml` (QP soft-breaks joined so every tracking URL/token is scrubbed → `[REDACTED-TRACKING-URL]` / `[REDACTED-TOKEN]`) and a clean `autoscientist-welcome.parsed.md` extraction. Verified 0 live tokens in committed files.
+
+## 2026-06-20 — Literature review: how the challenge works
+- Web-researched Adaption Labs + the AutoScientist Challenge from primary (challenge page, product pages) and independent (TechCrunch) sources.
+- Wrote `literature/sources.md` (S1–S5) and `literature/REVIEW.md` synthesizing the mechanics: 4-week / two 2-week phases, 10 categories, submission = adapted dataset + trained weights to BOTH Hugging Face & Kaggle + measurable % gain over baseline on Adaption's held-out test sets. Noted email-vs-official domain-split discrepancy.
