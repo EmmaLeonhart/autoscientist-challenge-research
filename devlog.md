@@ -35,3 +35,6 @@ land here as queue items get deleted.
 
 ## 2026-06-20 — todo.md: strategy horizon
 - Wrote `todo.md` laying out the understand→strategize track (A resolve rule-questions, B category selection, C tooling, D build submission, E publish report).
+
+## 2026-06-20 — Report site + README reflect real findings
+- Filled in `docs/index.html` (lede, pillars, findings table, repo link) and rewrote `README.md` About/Status with the actual challenge summary and links. Kept the cleanvibe theme chrome.

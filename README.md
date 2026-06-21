@@ -7,12 +7,28 @@
 
 ## About
 
-This is an original research project (not a replication). It poses a question,
-surveys the prior literature, runs experiments / builds something to answer it,
-and publishes the findings as a themed GitHub Pages report + a transportable PDF.
+This project started from one confusing email: a *"You're In. Now share with the
+world."* onboarding mail from **Adaption Labs**. It works out what the
+**AutoScientist Challenge** actually is and how to place in it.
 
-The distinctive first move is a **literature review** (agentic RAG) *before* any
-building — see `literature/`.
+**What it is (short version):** a four-week, **$50,000**, **per-category** open
+competition. You finetune a model in one of ten categories, show a measurable
+improvement over a baseline on Adaption's **held-out test set**, and open-source
+**both the adapted dataset and the trained weights to Hugging Face *and* Kaggle**.
+Prizes: 10× $4k firsts (one per category), 10× $1k runners-up, 30 honorary mentions.
+Because prizes are per category, the decisive lever is **category selection**.
+
+- The plain-language answer: **`FINDINGS.md`**.
+- The evidence base: **`literature/REVIEW.md`** (+ `sources.md`).
+- The source email (redacted): **`data_lake/email/`**.
+- The strategy track: **`todo.md`**.
+
+## Status
+
+Understanding pass **complete** (what the challenge is, how submissions/judging
+work, the timeline). Next phase is strategy: resolve open rule-questions in Discord,
+pick a target category, and build a submission. Part 1 closes **Jul 5, 2026**;
+Part 2 runs **Jul 6 – Aug 3**.
 
 ## How it's organized
 

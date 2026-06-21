@@ -138,9 +138,12 @@
 
 <h1>autoscientist-challenge-research</h1>
 <p class="lede">
-  A <strong>cleanvibe research project</strong>. <em>TODO: replace this lede with a
-  one-paragraph plain-language summary of what this project investigates and what
-  it found.</em>
+  A <strong>cleanvibe research project</strong> that started from a single confusing
+  email — a &ldquo;You&rsquo;re In&rdquo; onboarding mail from Adaption Labs — and works
+  out what the <strong>AutoScientist Challenge</strong> actually is: a four-week, $50,000,
+  per-category competition where you finetune a model, beat a hidden baseline, and
+  open-source your dataset and weights. This site explains how it works and lays out a
+  strategy to place.
 </p>
 
 <div class="question">
@@ -163,7 +166,7 @@
       Full write-up, typeset. <span class="arrow">&darr;</span>
     </div>
   </a>
-  <a class="action" href="#">
+  <a class="action" href="https://github.com/EmmaLeonhart/autoscientist-challenge-research">
     <div class="kicker">Source</div>
     <div class="title">GitHub repository</div>
     <div class="desc">
@@ -179,22 +182,59 @@
     <p>How does the Adaption Labs AutoScientist Challenge work, and what is a concrete strategy to place in it?</p>
   </div>
   <div class="pillar">
-    <h3>2 &middot; Grounded in the literature</h3>
+    <h3>2 &middot; Grounded in the sources</h3>
     <p>
-      TODO: one line on the prior work this builds on (the full survey lives in
-      <code>literature/REVIEW.md</code>) and the gap this project addresses.
+      Built from Adaption Labs&rsquo; own challenge and product pages plus independent
+      reporting (TechCrunch) &mdash; full survey in <code>literature/REVIEW.md</code>. The
+      gap: the welcome email is marketing, not the rulebook, so the real mechanics had to
+      be reconstructed from primary sources.
     </p>
   </div>
   <div class="pillar">
     <h3>3 &middot; The finding</h3>
-    <p>TODO: one line on the headline result, once there is one.</p>
+    <p>
+      It&rsquo;s a per-category contest (ten separate $4k first prizes), so the decisive
+      lever isn&rsquo;t raw skill but <strong>category selection</strong> &mdash; pick a
+      category with domain edge and a thin field, beat the baseline, ship the dataset +
+      weights to Hugging Face <em>and</em> Kaggle.
+    </p>
   </div>
 </div>
 
 <h2 id="findings">Findings</h2>
 <p>
-  <em>TODO: write the findings here (or render them from <code>FINDINGS.md</code>).
-  Until results exist, this project is <strong>in progress</strong>.</em>
+  <strong>What you signed up for:</strong> the <strong>AutoScientist Challenge</strong>, a
+  four-week open competition from Adaption Labs (the startup founded by ex-Cohere leaders
+  Sara Hooker and Sudip Roy). The &ldquo;You&rsquo;re In&rdquo; email is just onboarding
+  collateral; the actual rules live on the challenge page.
+</p>
+<p><strong>How a submission works &mdash; four parts:</strong></p>
+<ol>
+  <li>Pick <strong>one of ten categories</strong>.</li>
+  <li><strong>Open-source</strong> your adapted finetuning dataset <em>and</em> trained weights to <strong>both Hugging Face and Kaggle</strong>, crediting <em>Adaptive Data by Adaption</em>.</li>
+  <li>Show a <strong>measurable % improvement over a baseline</strong> on Adaption&rsquo;s held-out, in-house test set (they grade you on data you never see).</li>
+  <li><em>(Bonus)</em> demos + social posts tagging @adaption_ai / adaption-labs.</li>
+</ol>
+<table>
+  <tr><th>Phase</th><th>Window</th><th>Categories</th><th>Winners</th></tr>
+  <tr><td>Part 1</td><td>Jun 8 &ndash; Jul 5</td><td>Finance, healthcare, language, legal, marketing</td><td>Jul 13</td></tr>
+  <tr><td>Part 2</td><td>Jul 6 &ndash; Aug 3</td><td>Science, agriculture, data viz, math &amp; code, all other</td><td>Aug 10</td></tr>
+</table>
+<p>
+  <strong>Prizes:</strong> $50,000 total &mdash; 10&times;$4,000 firsts (one per category),
+  10&times;$1,000 runners-up, 30 honorary mentions. Adaption provides ~$1,000 in adaptation
+  credits + free compute, a Discord, and research-team office hours.
+</p>
+<p>
+  <strong>The strategic read:</strong> because prizes are awarded per category, you only need
+  to be best in <em>one</em>. So the highest-leverage move is category selection, not
+  out-muscling a crowded field. The full analysis is in
+  <a href="https://github.com/EmmaLeonhart/autoscientist-challenge-research/blob/main/FINDINGS.md"><code>FINDINGS.md</code></a>;
+  the strategy track is in <code>todo.md</code>.
+</p>
+<p>
+  <em>Status: understanding pass complete; strategy (category selection &amp; submission build)
+  is the next phase.</em>
 </p>
 
 <footer>
