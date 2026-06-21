@@ -29,3 +29,6 @@ land here as queue items get deleted.
 ## 2026-06-20 — Literature review: how the challenge works
 - Web-researched Adaption Labs + the AutoScientist Challenge from primary (challenge page, product pages) and independent (TechCrunch) sources.
 - Wrote `literature/sources.md` (S1–S5) and `literature/REVIEW.md` synthesizing the mechanics: 4-week / two 2-week phases, 10 categories, submission = adapted dataset + trained weights to BOTH Hugging Face & Kaggle + measurable % gain over baseline on Adaption's held-out test sets. Noted email-vs-official domain-split discrepancy.
+
+## 2026-06-20 — FINDINGS.md: plain-language answer
+- Wrote `FINDINGS.md` answering the core confusion: what the email was (HubSpot onboarding, not the rulebook), how the competition works, what a submission is, where today sits in the timeline, and the key lever (per-category prizes → category selection). Listed open rule-questions to resolve.
