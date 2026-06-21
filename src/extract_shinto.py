@@ -16,6 +16,7 @@ Usage:
 from __future__ import annotations
 import argparse
 import json
+import time
 import requests
 
 WDQS = "https://query.wikidata.org/sparql"
@@ -89,13 +90,27 @@ def _split(b, k):
     return [x for x in _get(b, k).split(" | ") if x]
 
 
-def _query(q, timeout=120):
-    r = requests.get(
-        WDQS, params={"query": q, "format": "json"},
-        headers={"User-Agent": UA, "Accept": "application/sparql-results+json"}, timeout=timeout,
-    )
-    r.raise_for_status()
-    return r.json()["results"]["bindings"]
+def _query(q, timeout=180, retries=5):
+    """Query WDQS with backoff. WDQS throttles heavy queries with 429/502/503/504;
+    retry those with exponential backoff instead of crashing the whole run.
+    """
+    last = None
+    for attempt in range(retries):
+        try:
+            r = requests.get(
+                WDQS, params={"query": q, "format": "json"},
+                headers={"User-Agent": UA, "Accept": "application/sparql-results+json"},
+                timeout=timeout,
+            )
+            if r.status_code in (429, 502, 503, 504):
+                raise requests.HTTPError(f"{r.status_code} {r.reason}")
+            r.raise_for_status()
+            return r.json()["results"]["bindings"]
+        except (requests.RequestException, ValueError) as e:
+            last = e
+            if attempt < retries - 1:
+                time.sleep(3 * (2 ** attempt))  # 3, 6, 12, 24s
+    raise last
 
 
 def fetch(kind, limit=200, offset=0):

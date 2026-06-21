@@ -66,3 +66,8 @@ land here as queue items get deleted.
 - User direction: don't limit to shrines, stay within **Shinto** (broad); build self-contained, reusing latent-space-cartography's seed-and-traverse pattern (no hard dep on Loka / latent-space-cartography).
 - Generalized the pipeline: `src/extract_shrines.py` → `src/extract_shinto.py` with type-aware `make_qa_pairs` over 3 kinds — **shrine**, **kami** (genealogy: parents/children/native name), **seed** (curated texts/concepts: Engishiki, Kojiki, Nihon Shoki, Shinto). Updated `scripts/run.py`, tests (5 passing), and docs.
 - **Fixed a data-quality bug:** the kami class was mis-set to Q175331 ("demonstration/protest" — pulled in "1989 Tiananmen Square protests"); corrected to **Q524158** ("kami"). Sample now clean: Amaterasu, Susanoo (parents Izanami/Izanagi), Hachiman, Ōkuninushi. Sample: 206 entities → 684 QA pairs.
+
+## 2026-06-20 — Live data gather + WDQS robustness fix
+- Switched from scheduled crons to gathering the full dataset live (cancelled the 7:31/8:10 jobs).
+- First full run hit a WDQS **502** at shrine offset 3500 and crashed (no retry) — captured ~3.5k shrines / 16.3k pairs before dying.
+- Hardened the extractor: `_query` now retries 429/502/503/504 with exponential backoff; `scripts/run.py` lightens page size to 250, throttles 1s between pages, flushes incrementally, and continues to the next kind if a page fails after retries (partial data is kept, not lost). Re-running the full gather.
